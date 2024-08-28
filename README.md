@@ -1,4 +1,4 @@
-# CMPT353-Hotel-Grader
+# CMPT353-Hotel Price Optimization
 ## Used Libraries
 - NumPy
 - Pandas
