@@ -1,0 +1,937 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-21T21:10:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25325833",
+        "alt_name": "Gilmore Station",
+        "name": "Gilmore",
+        "network": "TransLink",
+        "operator": "BC Rapid Transit",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "GM",
+        "start_date": "2002-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1956306",
+        "wikipedia": "en:Gilmore station (SkyTrain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.013418,
+          49.2650043
+        ]
+      },
+      "id": "node/25325833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25751159",
+        "alt_name": "Main Street–Science World Station",
+        "name": "Main Street–Science World",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "MN",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1392001",
+        "wikipedia": "en:Main Street–Science World station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1004436,
+          49.2731524
+        ]
+      },
+      "id": "node/25751159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/258029290",
+        "alt_name": "Brentwood Town Centre Station",
+        "name": "Brentwood Town Centre",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "BR",
+        "start_date": "2002-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q1955893",
+        "wikipedia": "en:Brentwood Town Centre station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.001723,
+          49.2664016
+        ]
+      },
+      "id": "node/258029290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3831781786",
+        "alt_name": "Waterfront Station",
+        "name": "Waterfront",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WF",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1625437",
+        "wikipedia": "en:Waterfront station (Vancouver)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1122198,
+          49.2861789
+        ]
+      },
+      "id": "node/3831781786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3956040167",
+        "alt_name": "Commercial–Broadway Station",
+        "name": "Commercial–Broadway",
+        "network": "TransLink",
+        "old_name": "Broadway",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "BW",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1391726",
+        "wikipedia": "en:Commercial–Broadway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0691167,
+          49.2618519
+        ]
+      },
+      "id": "node/3956040167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3956055739",
+        "alt_name": "Bridgeport Station",
+        "name": "Bridgeport",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "BP",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2493447",
+        "wikipedia": "en:Bridgeport station (SkyTrain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.125937,
+          49.195606
+        ]
+      },
+      "id": "node/3956055739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324551029",
+        "alt_name": "Royal Oak Station",
+        "name": "Royal Oak",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "RO",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1577965",
+        "wikipedia": "en:Royal Oak station (SkyTrain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.988416,
+          49.2200742
+        ]
+      },
+      "id": "node/5324551029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324559457",
+        "alt_name": "Metrotown Station",
+        "name": "Metrotown",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "MT",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3722244",
+        "wikipedia": "en:Metrotown station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0038944,
+          49.2258524
+        ]
+      },
+      "id": "node/5324559457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324568678",
+        "alt_name": "Patterson Station",
+        "name": "Patterson",
+        "name:etymology:wikidata": "Q5312449",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "PT",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1440971",
+        "wikipedia": "en:Patterson station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.012788,
+          49.2298294
+        ]
+      },
+      "id": "node/5324568678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324581126",
+        "alt_name": "Joyce–Collingwood Station",
+        "name": "Joyce–Collingwood",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "JY",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1440923",
+        "wikipedia": "en:Joyce–Collingwood station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.031678,
+          49.2383663
+        ]
+      },
+      "id": "node/5324581126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324590526",
+        "alt_name": "Nanaimo Station",
+        "name": "Nanaimo",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "NA",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1440914",
+        "wikipedia": "en:Nanaimo station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0560202,
+          49.248374
+        ]
+      },
+      "id": "node/5324590526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324600053",
+        "alt_name": "29th Avenue Station",
+        "name": "29th Avenue",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "TN",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1440907",
+        "wikipedia": "en:29th Avenue station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0459222,
+          49.2442084
+        ]
+      },
+      "id": "node/5324600053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324621993",
+        "alt_name": "VCC–Clark Station",
+        "name": "VCC–Clark",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "VC",
+        "start_date": "2006-01-06",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1955857",
+        "wikipedia": "en:VCC–Clark station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.079141,
+          49.2658292
+        ]
+      },
+      "id": "node/5324621993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324635042",
+        "alt_name": "Granville Station",
+        "name": "Granville",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "GV",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1186718",
+        "wikipedia": "en:Granville station (SkyTrain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1160432,
+          49.2832289
+        ]
+      },
+      "id": "node/5324635042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324635405",
+        "name": "Stadium–Chinatown",
+        "name:zh": "體育館/華埠（唐人街）",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "ST",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1186497",
+        "wikipedia": "en:Stadium–Chinatown station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.109311,
+          49.279398
+        ]
+      },
+      "id": "node/5324635405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324651729",
+        "alt_name": "Burrard Station",
+        "name": "Burrard",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "BU",
+        "start_date": "1986-01-03",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1186692",
+        "wikipedia": "en:Burrard station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1198152,
+          49.2856364
+        ]
+      },
+      "id": "node/5324651729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324719980",
+        "alt_name": "Holdom Station",
+        "name": "Holdom",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "HO",
+        "start_date": "2002-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1826495",
+        "wikipedia": "en:Holdom station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9819512,
+          49.2647247
+        ]
+      },
+      "id": "node/5324719980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324730259",
+        "alt_name": "Rupert Station",
+        "name": "Rupert",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "RU",
+        "start_date": "2002-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1956237",
+        "wikipedia": "en:Rupert station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0330982,
+          49.260712
+        ]
+      },
+      "id": "node/5324730259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324734517",
+        "alt_name": "Renfrew Station",
+        "name": "Renfrew",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "RE",
+        "start_date": "2002-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1956276",
+        "wikipedia": "en:Renfrew station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0452551,
+          49.2589451
+        ]
+      },
+      "id": "node/5324734517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324748888",
+        "alt_name": "Aberdeen Station",
+        "name": "Aberdeen",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AB",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2493402",
+        "wikipedia": "en:Aberdeen station (SkyTrain)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.136316,
+          49.1839817
+        ]
+      },
+      "id": "node/5324748888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324792504",
+        "alt_name": "Templeton Station",
+        "name": "Templeton",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "TM",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2582278",
+        "wikipedia": "en:Templeton station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1464661,
+          49.1966743
+        ]
+      },
+      "id": "node/5324792504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324793019",
+        "alt_name": "Sea Island Centre Station",
+        "name": "Sea Island Centre",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "SI",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2582702",
+        "wikipedia": "en:Sea Island Centre station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1579366,
+          49.1930194
+        ]
+      },
+      "id": "node/5324793019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324798857",
+        "alt_name": "Olympic Village Station",
+        "name": "Olympic Village",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "OV",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2258575",
+        "wikipedia": "en:Olympic Village station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1156986,
+          49.2665609
+        ]
+      },
+      "id": "node/5324798857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324814227",
+        "alt_name": "Marine Drive Station",
+        "name": "Marine Drive",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "MD",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2493445",
+        "wikipedia": "en:Marine Drive station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1169672,
+          49.2096366
+        ]
+      },
+      "id": "node/5324814227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324820129",
+        "alt_name": "Oakridge-41st Avenue Station",
+        "name": "Oakridge-41st Avenue",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "OK",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2368841",
+        "wikipedia": "en:Oakridge–41st Avenue station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1166166,
+          49.2331614
+        ]
+      },
+      "id": "node/5324820129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324820954",
+        "alt_name": "Langara-49th Avenue Station",
+        "name": "Langara-49th Avenue",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "LG",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2494127",
+        "wikipedia": "en:Langara–49th Avenue station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11609,
+          49.2262741
+        ]
+      },
+      "id": "node/5324820954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324825482",
+        "alt_name": "King Edward Station",
+        "name": "King Edward",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "KE",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2258039",
+        "wikipedia": "en:King Edward station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1158299,
+          49.2491759
+        ]
+      },
+      "id": "node/5324825482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324830285",
+        "alt_name": "Broadway–City Hall Station",
+        "name": "Broadway–City Hall",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "BC",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2256761",
+        "wikipedia": "en:Broadway–City Hall station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1145101,
+          49.2628399
+        ]
+      },
+      "id": "node/5324830285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324837598",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "alt_name": "Yaletown–Roundhouse Station",
+        "name": "Yaletown–Roundhouse",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "YT",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2153961",
+        "wikipedia": "en:Yaletown–Roundhouse station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.121905,
+          49.2745376
+        ]
+      },
+      "id": "node/5324837598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324838897",
+        "alt_name": "Vancouver City Centre Station",
+        "name": "Vancouver City Centre",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "VS",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2153968",
+        "wikipedia": "en:Vancouver City Centre station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1186283,
+          49.2824713
+        ]
+      },
+      "id": "node/5324838897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5328604043",
+        "alt_name": "Waterfront Station",
+        "name": "Waterfront",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q1625437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1112786,
+          49.2859502
+        ]
+      },
+      "id": "node/5328604043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5330999693",
+        "alt_name": "YVR–Airport Station",
+        "name": "YVR–Airport",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "AP",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2582331",
+        "wikipedia": "en:YVR-Airport station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.178347,
+          49.1942382
+        ]
+      },
+      "id": "node/5330999693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6481882067",
+        "name": "North Vancouver",
+        "network": "Rocky Mountaineer",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q7057110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1140564,
+          49.3155483
+        ]
+      },
+      "id": "node/6481882067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7012109787",
+        "addr:province": "BC",
+        "iata": "XEA",
+        "name": "Vancouver Pacific Central",
+        "network": "VIA Rail;Amtrak",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "VCVR",
+        "ref:amtrak": "VAC",
+        "ref:via_rail": "VCVR",
+        "train": "yes",
+        "wikidata": "Q1327751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0978638,
+          49.2737461
+        ]
+      },
+      "id": "node/7012109787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8576664378",
+        "alt_name": "Waterfront Station",
+        "name": "Waterfront",
+        "network": "TransLink",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "WF",
+        "start_date": "2009-08-18",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1625437",
+        "wikipedia": "en:Waterfront station (Vancouver)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1135407,
+          49.2855437
+        ]
+      },
+      "id": "node/8576664378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8576664379",
+        "alt_name": "Commercial–Broadway Station",
+        "name": "Commercial–Broadway",
+        "network": "TransLink",
+        "old_name": "Commercial Drive",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "CM",
+        "start_date": "2002-08-31",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1391726",
+        "wikipedia": "en:Commercial–Broadway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0684944,
+          49.2629509
+        ]
+      },
+      "id": "node/8576664379"
+    }
+  ]
+}

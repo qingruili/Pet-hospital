@@ -1,0 +1,32 @@
+Data (Vancouver):
+Overpass -
+restaurants, skytrain, bus stations, park, markets
+Airbnb — listings.csv 
+(Minimum night < 7,
+ 7 < Minimum night < 30, Name, Rates, lan, Lon, price, reviews year>=2022)
+
+Analyze:  The price of the hotel
+— 1km
+Consider minimum_nights
+Rate of hotels
+Number of bus stations near hotels
+Number of Skytrain stations near hotels
+Number of restaurants near hotels
+Number of markets near hotels
+Number of parks near hotels
+Price depends on number of room?
+
+Predict:  The price of the hotel
+------------------code---------------------
+clean 
+
+analyze
+
+predict 
+
+----------------report---------------------
+Background + data
+
+Challenge 
+
+conclusion

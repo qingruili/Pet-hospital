@@ -1,0 +1,5867 @@
+{
+  "data": [
+    {
+      "type": "node",
+      "id": 256540536,
+      "lat": 49.3093371,
+      "lon": -123.0424396,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "333",
+        "addr:street": "Brooksbank Avenue",
+        "addr:unit": "600",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 384254462,
+      "lat": 49.170796,
+      "lon": -123.182992,
+      "tags": {
+        "addr:housenumber": "3673",
+        "addr:street": "Westminster Highway",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1-604-273-5755",
+        "shop": "supermarket",
+        "website": "https://www.saveonfoods.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 384254535,
+      "lat": 49.1714559,
+      "lon": -123.133239,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "8200",
+        "addr:province": "BC",
+        "addr:street": "Ackroyd Road",
+        "internet_access": "wlan",
+        "name": "PriceSmart Foods",
+        "name:zh": "佳廉超市",
+        "operator": "Jim Pattison Group",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 384254547,
+      "lat": 49.1861767,
+      "lon": -123.1333444,
+      "tags": {
+        "addr:unit": "1000",
+        "name": "Osaka Supermarket",
+        "name:zh": "大阪超級市場",
+        "opening_hours": "08:30-23:00",
+        "operator": "Osaka Supermarket (T&T Supermarket)",
+        "phone": "+1-604-276-8808",
+        "shop": "supermarket",
+        "website": "https://www.tnt-supermarket.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 472566069,
+      "lat": 49.2193088,
+      "lon": -123.1497429,
+      "tags": {
+        "name": "Choices Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 482696840,
+      "lat": 49.2794186,
+      "lon": -122.967118,
+      "tags": {
+        "addr:housenumber": "6564",
+        "addr:street": "Hastings Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-604-291-2901",
+        "shop": "supermarket",
+        "website": "https://www.safeway.ca/stores/safeway-kensington-square/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 505778836,
+      "lat": 49.278642,
+      "lon": -123.1216903,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "990",
+        "addr:street": "Seymour Street",
+        "check_date:opening_hours": "2022-03-06",
+        "internet_access": "wlan",
+        "name": "Nesters Food Market",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.nestersmarket.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513053228,
+      "lat": 49.2800788,
+      "lon": -123.1174613,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "489",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "check_date:opening_hours": "2022-02-20",
+        "name": "IGA",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 567130600,
+      "lat": 49.2639998,
+      "lon": -123.115281,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "510",
+        "addr:postcode": "V5Z 1C5",
+        "addr:province": "BC",
+        "addr:street": "West 8th Avenue",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "check_date": "2023-05-07",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "payment:debit_cards": "yes",
+        "phone": "+1-778-370-4210",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582799000,
+      "lat": 49.2630032,
+      "lon": -123.1001861,
+      "tags": {
+        "addr:housenumber": "235",
+        "addr:street": "East Broadway",
+        "check_date": "2023-06-01",
+        "name": "Home on the Range Organics",
+        "opening_hours": "Mo-Su 11:00-18:00",
+        "phone": "+1-604-876-8755",
+        "shop": "supermarket",
+        "website": "http://www.store.homeontherangefarms.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 635890635,
+      "lat": 49.2578707,
+      "lon": -123.1656956,
+      "tags": {
+        "name": "Choices Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638861830,
+      "lat": 49.2767415,
+      "lon": -123.130413,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1348",
+        "addr:province": "BC",
+        "addr:street": "Hornby Street",
+        "name": "Sashimiya",
+        "opening_hours": "We-Su 11:00-20:00",
+        "phone": "+1-604-689-0088",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 642897590,
+      "lat": 49.2665997,
+      "lon": -123.2430629,
+      "tags": {
+        "alt_name:ko": "H 마트",
+        "brand": "H Mart",
+        "brand:wikidata": "Q5636306",
+        "brand:wikipedia": "en:H Mart",
+        "cuisine": "asian",
+        "name": "H Mart",
+        "name:en": "H Mart",
+        "name:ko": "한아름",
+        "name:zh-Hans": "韩亚龙",
+        "name:zh-Hant": "韓亞龍",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 649986265,
+      "lat": 49.2892045,
+      "lon": -123.1225516,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "305",
+        "addr:province": "BC",
+        "addr:street": "Bute Street",
+        "name": "Urban Fare",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket",
+        "website": "https://www.urbanfare.com/store/coal-harbour",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 700544442,
+      "lat": 49.2484002,
+      "lon": -123.0715121,
+      "tags": {
+        "addr:housenumber": "1595",
+        "addr:street": "Kingsway",
+        "name": "Famous Foods",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket",
+        "url": "http://www.famousfoods.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 700544521,
+      "lat": 49.2320932,
+      "lon": -123.0330707,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3410",
+        "addr:postcode": "V5R 5L4",
+        "addr:street": "Kingsway",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "phone": "+1-604-439-0090",
+        "shop": "supermarket",
+        "website": "https://www.safeway.ca/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 700713952,
+      "lat": 49.2254784,
+      "lon": -123.0777343,
+      "tags": {
+        "name": "Save and Stay Food Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 721674468,
+      "lat": 49.2269806,
+      "lon": -123.0659649,
+      "tags": {
+        "name": "Chong Lee Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 724596931,
+      "lat": 49.2576848,
+      "lon": -123.1533962,
+      "tags": {
+        "name": "Loblaws City Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 745987498,
+      "lat": 49.2690308,
+      "lon": -123.046266,
+      "tags": {
+        "addr:housenumber": "2800",
+        "addr:postcode": "V5M 4N8",
+        "addr:street": "East 1st Avenue",
+        "addr:unit": "100",
+        "brand": "T&T Supermarket",
+        "brand:wikidata": "Q837893",
+        "brand:wikipedia": "en:T & T Supermarket",
+        "level": "0",
+        "name": "大統華 T&T Supermarket",
+        "name:en": "T&T Supermarket",
+        "name:zh": "大統華超級市場",
+        "name:zh-Hans": "大统华",
+        "name:zh-Hant": "大統華",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "phone": "+1-604-254-9668",
+        "shop": "supermarket",
+        "url": "http://www.tnt-supermarket.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 747517211,
+      "lat": 49.2274377,
+      "lon": -123.001096,
+      "tags": {
+        "addr:housenumber": "4700",
+        "addr:street": "Kingsway",
+        "brand": "Real Canadian Superstore",
+        "brand:wikidata": "Q7300856",
+        "brand:wikipedia": "en:Real Canadian Superstore",
+        "check_date:opening_hours": "2022-02-19",
+        "level": "0",
+        "name": "Real Canadian Superstore",
+        "opening_hours": "07:00-23:00",
+        "shop": "supermarket",
+        "website": "https://www.realcanadiansuperstore.ca/store-locator/?storeId=1518",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 747517219,
+      "lat": 49.2249256,
+      "lon": -122.999969,
+      "tags": {
+        "addr:housenumber": "4800",
+        "addr:street": "Kingsway",
+        "brand": "T&T Supermarket",
+        "brand:wikidata": "Q837893",
+        "brand:wikipedia": "en:T & T Supermarket",
+        "level": "-1",
+        "name": "大統華 T&T Supermarket",
+        "name:en": "T&T Supermarket",
+        "name:zh-Hans": "大统华",
+        "name:zh-Hant": "大統華",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 763981086,
+      "lat": 49.1986818,
+      "lon": -122.9802613,
+      "tags": {
+        "addr:housenumber": "7501",
+        "addr:street": "Market Crossing",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "check_date:opening_hours": "2023-05-21",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-604-433-4816",
+        "shop": "supermarket",
+        "website": "https://www.saveonfoods.com/store/marine-way/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 767351942,
+      "lat": 49.2186718,
+      "lon": -122.956695,
+      "tags": {
+        "addr:housenumber": "7155",
+        "addr:street": "Kingsway",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "pharmacy": "yes",
+        "phone": "+1-604-540-1368",
+        "shop": "supermarket",
+        "website": "https://www.saveonfoods.com/sm/pickup/rsid/1982/highgate-village/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 811017663,
+      "lat": 49.2542649,
+      "lon": -123.1154053,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3493",
+        "addr:postcode": "V5Z 2W7",
+        "addr:street": "Cambie Street",
+        "email": "cambie@choicesmarkets.com",
+        "name": "Choice's Market",
+        "opening_hours": "Su-Sa 08:00-23:00",
+        "phone": "+1-604-875-0099",
+        "shop": "supermarket",
+        "website": "https://www.choicesmarkets.com/store/cambie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 811017679,
+      "lat": 49.2646749,
+      "lon": -123.1142444,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2308",
+        "addr:province": "BC",
+        "addr:street": "Cambie Street",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.saveonfoods.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 811017732,
+      "lat": 49.2757311,
+      "lon": -123.124231,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1202",
+        "addr:postcode": "V6B 3G2",
+        "addr:province": "BC",
+        "addr:street": "Richards Street",
+        "check_date:opening_hours": "2023-03-07",
+        "name": "Choices",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-633-2392",
+        "shop": "supermarket",
+        "website": "http://www.choicesmarket.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 815717481,
+      "lat": 49.3173488,
+      "lon": -122.970657,
+      "tags": {
+        "brand": "Safeway",
+        "brand:wikidata": "Q17111901",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket",
+        "website": "https://www.safeway.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 822484876,
+      "lat": 49.2310934,
+      "lon": -123.0653191,
+      "tags": {
+        "name": "Doli Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 822484887,
+      "lat": 49.2256284,
+      "lon": -123.0538178,
+      "tags": {
+        "name": "88 Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 828255496,
+      "lat": 49.2144445,
+      "lon": -122.9891521,
+      "tags": {
+        "addr:housenumber": "7641",
+        "name": "Buy-Low Foods",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 905410310,
+      "lat": 49.2822136,
+      "lon": -123.124929,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "909",
+        "addr:postcode": "V6Z 2N2",
+        "addr:province": "BC",
+        "addr:street": "Burrard Street",
+        "addr:unit": "110",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "name:en": "IGA",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-605-0612",
+        "shop": "supermarket",
+        "website": "http://marketplaceiga.com",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 955335287,
+      "lat": 49.2683866,
+      "lon": -123.15711,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 971163075,
+      "lat": 49.2717616,
+      "lon": -123.0278191,
+      "tags": {
+        "addr:housenumber": "1465",
+        "addr:street": "Kootenay Street",
+        "cuisine": "italian;mediterranean",
+        "name": "Bosa Foods",
+        "opening_hours": "Mo-Th 08:30-17:30; Fr 08:30-19:30; Sa 08:30-17:30",
+        "phone": "+1-604-253-5578",
+        "shop": "supermarket",
+        "website": "https://bosafoods.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 984956512,
+      "lat": 49.2587727,
+      "lon": -123.1384619,
+      "tags": {
+        "addr:housenumber": "3002",
+        "addr:street": "Granville Street",
+        "internet_access": "wlan",
+        "name": "Meinhardt",
+        "name:en": "MeinHardt Fine Foods",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-20:00",
+        "phone": "+1-604-732-4405",
+        "shop": "supermarket",
+        "website": "http://meinhardt.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 988469967,
+      "lat": 49.2699026,
+      "lon": -122.946036,
+      "tags": {
+        "cuisine": "chinese",
+        "name": "Sungiven Foods",
+        "note": "\"opening soon\" May 2022",
+        "opening_hours": "2023 Jan-Jun closed",
+        "shop": "supermarket",
+        "website": "https://sungivenfoods.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 991590485,
+      "lat": 49.2608325,
+      "lon": -123.1154257,
+      "tags": {
+        "name": "Kin's Farm Market",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1042158580,
+      "lat": 49.264314,
+      "lon": -123.173526,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3089",
+        "addr:street": "West Broadway",
+        "cuisine": "greek",
+        "name": "Parthenon Market",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+1-604-733-4191",
+        "shop": "supermarket",
+        "website": "https://www.parthenonmarket.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1141727696,
+      "lat": 49.2575122,
+      "lon": -123.127469,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3135",
+        "addr:province": "BC",
+        "addr:street": "Oak Street",
+        "check_date:opening_hours": "2022-01-22",
+        "name": "Sunshine Market",
+        "opening_hours": "Mo-Su 10:30-21:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1333826558,
+      "lat": 49.3359344,
+      "lon": -123.0387616,
+      "tags": {
+        "name": "Nourish",
+        "organic": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1413898119,
+      "lat": 49.3510617,
+      "lon": -123.253184,
+      "tags": {
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1413917021,
+      "lat": 49.3350386,
+      "lon": -123.182194,
+      "tags": {
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1430594618,
+      "lat": 49.2799356,
+      "lon": -123.1081374,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "181",
+        "addr:province": "BC",
+        "addr:street": "Keefer Place",
+        "air_conditioning": "yes",
+        "branch": "Chinatown Store",
+        "brand": "T&T Supermarket",
+        "brand:wikidata": "Q837893",
+        "brand:wikipedia": "en:T & T Supermarket",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "大統華 T&T Supermarket",
+        "name:en": "T&T Supermarket",
+        "name:zh-Hans": "大统华",
+        "name:zh-Hant": "大統華",
+        "opening_hours": "Mo-Su 08:30-22:00",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.tntsupermarket.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1431507811,
+      "lat": 49.2292977,
+      "lon": -123.0909016,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6095",
+        "addr:province": "BC",
+        "addr:street": "Fraser Street",
+        "name": "Buy-Low Foods",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1499626801,
+      "lat": 49.2766085,
+      "lon": -123.0770211,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:street": "Clark Drive",
+        "air_conditioning": "yes",
+        "cuisine": "japanese",
+        "name": "Fujiya",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1715797014,
+      "lat": 49.1778527,
+      "lon": -123.1382582,
+      "tags": {
+        "name": "Izumiya Japanese Marketplace",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+        "phone": "+1-604-303-1171",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1726097909,
+      "lat": 49.180504,
+      "lon": -123.1357268,
+      "tags": {
+        "addr:housenumber": "4600",
+        "addr:street": "Number 3 Road",
+        "addr:unit": "111",
+        "name": "New 2000 Supermarket",
+        "phone": "+1-604-278-8890",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1737960052,
+      "lat": 49.2678023,
+      "lon": -123.1428569,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1688",
+        "addr:street": "West 4th Avenue",
+        "brand": "No Frills",
+        "brand:wikidata": "Q3342407",
+        "brand:wikipedia": "en:No Frills (grocery store)",
+        "check_date": "2023-05-06",
+        "name": "No Frills",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1744065340,
+      "lat": 49.2654166,
+      "lon": -122.978001,
+      "tags": {
+        "name": "Buy Low Foods",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-888-1121",
+        "shop": "supermarket",
+        "website": "https://www.buy-low.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1752259248,
+      "lat": 49.1843782,
+      "lon": -123.114353,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "9780",
+        "addr:province": "BC",
+        "addr:street": "Cambie Road",
+        "name": "Rainbow Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1828159048,
+      "lat": 49.2706918,
+      "lon": -123.1059569,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1688",
+        "addr:postcode": "V5Y 0E4",
+        "addr:street": "Salt Street",
+        "email": "falsecreek@urbanfare.com",
+        "name": "Urban Fare",
+        "opening_hours": "07:00-23:00",
+        "phone": "+1-604-872-2730",
+        "shop": "supermarket",
+        "website": "https://www.urbanfare.com/store/false-creek"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927003495,
+      "lat": 49.2736623,
+      "lon": -123.120383,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "177",
+        "addr:postcode": "V6Z 2Y1",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "name": "Urban Fare",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "http://www.urbanfare.com/store/yaletown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1931861167,
+      "lat": 49.2412049,
+      "lon": -123.0656596,
+      "tags": {
+        "addr:housenumber": "4801",
+        "addr:street": "Victoria Drive",
+        "name": "88 Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934816976,
+      "lat": 49.269774,
+      "lon": -123.0704023,
+      "tags": {
+        "brand": "SuperValu",
+        "brand:wikidata": "Q7642081",
+        "brand:wikipedia": "en:SuperValu (Ireland)",
+        "name": "SuperValu",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1935696533,
+      "lat": 49.2487875,
+      "lon": -123.075626,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1403",
+        "addr:province": "BC",
+        "addr:street": "East King Edward Avenue",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "level": "0",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1945298040,
+      "lat": 49.232374,
+      "lon": -123.065773,
+      "tags": {
+        "addr:housenumber": "5723",
+        "addr:street": "Victoria Drive",
+        "name": "Osoyoos Produce",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1945301339,
+      "lat": 49.2307413,
+      "lon": -123.0658214,
+      "tags": {
+        "name": "Consumer Food Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2061050829,
+      "lat": 49.322225,
+      "lon": -123.073362,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "118",
+        "addr:province": "BC",
+        "addr:street": "West 15th Street",
+        "name": "Persia Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2073731028,
+      "lat": 49.2812715,
+      "lon": -123.055807,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2431",
+        "addr:postcode": "V5K 1Y8",
+        "addr:province": "BC",
+        "addr:street": "East Hastings Street",
+        "name": "BK Market",
+        "phone": "+1-604-255-1544",
+        "shop": "supermarket",
+        "website": "https://www.yelp.ca/biz/como-market-vancouver"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2269962036,
+      "lat": 49.2805229,
+      "lon": -123.118864,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "590",
+        "addr:postcode": "V6B 2B7",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "alt_name:ko": "H 마트",
+        "brand": "H Mart",
+        "brand:wikidata": "Q5636306",
+        "brand:wikipedia": "en:H Mart",
+        "check_date:opening_hours": "2022-02-13",
+        "cuisine": "asian",
+        "name": "H Mart",
+        "name:en": "H Mart",
+        "name:ko": "한아름",
+        "name:zh-Hans": "韩亚龙",
+        "name:zh-Hant": "韓亞龍",
+        "note": "9-22/7",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "opening_hours:covid19": "open",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2464516836,
+      "lat": 49.2859852,
+      "lon": -123.1244926,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1133",
+        "addr:postcode": "V6E 4T9",
+        "addr:province": "BC",
+        "addr:street": "Alberni Street",
+        "email": "alberni@urbanfare.com",
+        "internet_access": "wlan",
+        "name": "Urban Fare",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+        "phone": "+1-604-648-2053",
+        "shop": "supermarket",
+        "website": "http://www.urbanfare.com/store/shangri-la"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2533689703,
+      "lat": 49.2445055,
+      "lon": -123.1539066,
+      "tags": {
+        "name": "Finest at Sea",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2533690300,
+      "lat": 49.2446887,
+      "lon": -123.1539026,
+      "tags": {
+        "name": "M & M Meats",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-19:00; Su 11:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2585997100,
+      "lat": 49.3341294,
+      "lon": -123.0400917,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "2770",
+        "addr:province": "BC",
+        "addr:street": "Valley Centre Avenue",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2651272309,
+      "lat": 49.2751966,
+      "lon": -123.069286,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1034",
+        "addr:postcode": "V5L 3W9",
+        "addr:street": "Commercial Drive",
+        "name": "East End Food Co-op",
+        "opening_hours": "Mo-Su 08:30-21:00",
+        "shop": "supermarket",
+        "website": "http://east-end-food.coop",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2714484720,
+      "lat": 49.2246448,
+      "lon": -122.9891519,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "5172",
+        "addr:postcode": "V5H 2E8",
+        "addr:street": "Kingsway",
+        "check_date": "2022-11-01",
+        "name": "Boemma Euro Foods & Deli",
+        "opening_hours": "Tu-Sa 10:00-18:00; Su 10:00-17:00",
+        "phone": "+1-604-437-5557",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2791800325,
+      "lat": 49.3327128,
+      "lon": -123.0905335,
+      "tags": {
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2953672923,
+      "lat": 49.2749734,
+      "lon": -123.0697259,
+      "tags": {
+        "name": "Drive Organics",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2955228072,
+      "lat": 49.2648601,
+      "lon": -123.0694984,
+      "tags": {
+        "addr:housenumber": "2210",
+        "addr:street": "Commercial Drive",
+        "name": "Dollar Grocers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218202567,
+      "lat": 49.237471,
+      "lon": -123.0491347,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2760",
+        "addr:street": "Kingsway",
+        "name": "Great Two Supermarket",
+        "phone": "+1-604-433-8132",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3254066746,
+      "lat": 49.1736544,
+      "lon": -123.148814,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "5511",
+        "addr:province": "BC",
+        "addr:street": "Hollybridge Way",
+        "brand": "T&T Supermarket",
+        "brand:wikidata": "Q837893",
+        "brand:wikipedia": "en:T & T Supermarket",
+        "name": "大統華 T&T Supermarket",
+        "name:en": "T&T Supermarket",
+        "name:zh-Hans": "大统华",
+        "name:zh-Hant": "大統華",
+        "opening_hours": "Mo-Th 09:30-21:30; Fr, Sa 09:30-22:00",
+        "phone": "+1-604-303-8633",
+        "shop": "supermarket",
+        "website": "https://www.tntsupermarket.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3390473276,
+      "lat": 49.2185972,
+      "lon": -123.0399075,
+      "tags": {
+        "brand": "Your Independent Grocer",
+        "brand:wikidata": "Q8058833",
+        "brand:wikipedia": "en:Your Independent Grocer",
+        "name": "Your Independent Grocer",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket",
+        "website": "https://www.yourindependentgrocer.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3738440875,
+      "lat": 49.2827054,
+      "lon": -123.1115927,
+      "tags": {
+        "addr:housenumber": "345",
+        "addr:street": "West Pender Street",
+        "name": "Pender Grocery",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3742365829,
+      "lat": 49.2092549,
+      "lon": -123.1408604,
+      "tags": {
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3793753710,
+      "lat": 49.2900594,
+      "lon": -123.132718,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-604-687-5288",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3892437952,
+      "lat": 49.283592,
+      "lon": -123.1168276,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "609",
+        "addr:postcode": "V7Y 1E8",
+        "addr:province": "BC",
+        "addr:street": "Granville Street",
+        "level": "0",
+        "name": "Meinhardt Fine Foods",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "+1-604-681-8175",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3908795275,
+      "lat": 49.2380733,
+      "lon": -123.0656159,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "5125",
+        "addr:postcode": "V5P 3V1",
+        "addr:province": "BC",
+        "addr:street": "Victoria Drive",
+        "name": "JJ Sri Lankan Store",
+        "phone": "+1-604-423-4455",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3940620195,
+      "lat": 49.2825578,
+      "lon": -123.1071738,
+      "tags": {
+        "addr:housenumber": "333",
+        "addr:street": "Abbott Street",
+        "name": "Nesters Market",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-20:00",
+        "phone": "+1-604-688-7550",
+        "shop": "supermarket",
+        "website": "https://www.nestersmarket.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3965204985,
+      "lat": 49.209749,
+      "lon": -123.116122,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "458",
+        "addr:postcode": "V5X 0C4",
+        "addr:street": "Southwest Marine Drive",
+        "brand": "T&T Supermarket",
+        "brand:wikidata": "Q837893",
+        "brand:wikipedia": "en:T & T Supermarket",
+        "level": "1",
+        "name": "大統華 T&T Supermarket",
+        "name:en": "T&T Supermarket",
+        "name:zh-Hans": "大统华",
+        "name:zh-Hant": "大統華",
+        "opening_hours": "Mo-Su 08:00-11:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3979056491,
+      "lat": 49.2676796,
+      "lon": -123.0694534,
+      "tags": {
+        "name": "First Ravioli Store",
+        "opening_hours": "Mo-Su 10:00-06:30",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980931108,
+      "lat": 49.2660422,
+      "lon": -123.004925,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "4420",
+        "addr:street": "Lougheed Highway",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4000060604,
+      "lat": 49.2328032,
+      "lon": -123.03364,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3388",
+        "addr:postcode": "V5R 5L2",
+        "addr:street": "Kingsway",
+        "diet:halal": "no",
+        "name": "Consumers Produce",
+        "opening_hours": "Mo-Su 08:30-19:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-432-9912",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170640377,
+      "lat": 49.2588293,
+      "lon": -123.1017686,
+      "tags": {
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4232382697,
+      "lat": 49.2681104,
+      "lon": -123.186346,
+      "tags": {
+        "level": "-1",
+        "name": "Jason's No Frills",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4232390790,
+      "lat": 49.268724,
+      "lon": -123.1820452,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3515",
+        "addr:street": "West 4th Avenue",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4238182492,
+      "lat": 49.2437046,
+      "lon": -123.0900608,
+      "tags": {
+        "addr:housenumber": "4590",
+        "addr:street": "Fraser Street",
+        "name": "Shoppers Drug Mart",
+        "opening_hours": "Mo-Su 08:00-22:00; PH closed",
+        "shop": "supermarket",
+        "website": "https://stores.shoppersdrugmart.ca/en/store/2276/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4238210091,
+      "lat": 49.2445601,
+      "lon": -123.0899892,
+      "tags": {
+        "addr:housenumber": "4508",
+        "addr:street": "Fraser Street",
+        "brand": "No Frills",
+        "brand:wikidata": "Q3342407",
+        "brand:wikipedia": "en:No Frills (grocery store)",
+        "name": "No Frills",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4287080663,
+      "lat": 49.32069,
+      "lon": -123.0962568,
+      "tags": {
+        "name": "Thrifty Foods",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305377798,
+      "lat": 49.2804768,
+      "lon": -123.131611,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1104",
+        "addr:postcode": "V6E 1X4",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "email": "info@mitierralatina.ca",
+        "name": "Mi Tierra Latina",
+        "opening_hours": "09:00-21:00",
+        "payment:credit_cards": "yes",
+        "phone": "+1 866-967-1378",
+        "shop": "supermarket",
+        "website": "https://mitierralatina.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4319033390,
+      "lat": 49.2626969,
+      "lon": -123.092376,
+      "tags": {
+        "addr:housenumber": "519",
+        "addr:postcode": "V5T 1X4",
+        "addr:street": "East Broadway",
+        "name": "Kim's Mart",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+1-604-708-9913",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4343680242,
+      "lat": 49.2638885,
+      "lon": -123.2558898,
+      "tags": {
+        "name": "Harvest",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4401379671,
+      "lat": 49.305953,
+      "lon": -123.0156499,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "2150",
+        "addr:postcode": "V7H 0B5",
+        "addr:street": "Dollarton Highway",
+        "name": "Stong's Market",
+        "opening_hours": "07:00-22:00",
+        "phone": "+1-604-973-0700",
+        "shop": "supermarket",
+        "website": "https://stongs.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4452893799,
+      "lat": 49.1914714,
+      "lon": -123.1271118,
+      "tags": {
+        "addr:housenumber": "3000",
+        "addr:street": "Sexsmith Road",
+        "name": "Foody World",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4461277189,
+      "lat": 49.2497996,
+      "lon": -123.1007881,
+      "tags": {
+        "name": "The August Market",
+        "name:en": "The August Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4503723414,
+      "lat": 49.263616,
+      "lon": -123.1499525,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1978",
+        "addr:street": "West Broadway",
+        "name": "Greens Organic and Natural Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4503723423,
+      "lat": 49.2637712,
+      "lon": -123.1570948,
+      "tags": {
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4580421990,
+      "lat": 49.3199819,
+      "lon": -123.1019006,
+      "tags": {
+        "addr:housenumber": "991",
+        "addr:postcode": "V7P 1E4",
+        "addr:street": "West 3rd Street",
+        "currency:others": "CAD cash only",
+        "email": "info@cheeseman.ca",
+        "name": "The Cheese​ Man",
+        "name:en": "The Cheese​ Man",
+        "opening_hours": "Tu-Fr 09:00-17:30; Sa 09:00-17:00",
+        "phone": "+1-604-985-4527",
+        "shop": "supermarket",
+        "website": "http://cheeseman.ca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4586544564,
+      "lat": 49.3245701,
+      "lon": -123.1092299,
+      "tags": {
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4613611055,
+      "lat": 49.1903153,
+      "lon": -122.9502645,
+      "tags": {
+        "brand": "Bulk Barn",
+        "brand:wikidata": "Q4996466",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4636074593,
+      "lat": 49.2482911,
+      "lon": -123.185444,
+      "tags": {
+        "addr:housenumber": "4221",
+        "addr:street": "Dunbar Street",
+        "name": "Stong's Market",
+        "name:en": "Stong's Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-604-266-1401",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4643993089,
+      "lat": 49.1832276,
+      "lon": -123.134218,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:province": "BC",
+        "addr:street": "Hazelbridge Way",
+        "alt_name:ko": "H 마트",
+        "brand": "H Mart",
+        "brand:wikidata": "Q5636306",
+        "brand:wikipedia": "en:H Mart",
+        "cuisine": "asian",
+        "name": "H Mart",
+        "name:en": "H Mart",
+        "name:ko": "한아름",
+        "name:zh-Hans": "韩亚龙",
+        "name:zh-Hant": "韓亞龍",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "+1-604-233-0496",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4675760389,
+      "lat": 49.2870439,
+      "lon": -123.119786,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "addr:street": "West Pender Street",
+        "name": "Fujiya",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4771874022,
+      "lat": 49.3276283,
+      "lon": -123.138999,
+      "tags": {
+        "brand": "Loblaws",
+        "brand:wikidata": "Q3257626",
+        "brand:wikipedia": "en:Loblaws",
+        "level": "0",
+        "name": "Loblaws",
+        "name:en": "Loblaws City Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4833189537,
+      "lat": 49.2887465,
+      "lon": -123.138325,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "addr:street": "Denman Street",
+        "brand": "No Frills",
+        "brand:wikidata": "Q3342407",
+        "brand:wikipedia": "en:No Frills (grocery store)",
+        "name": "No Frills",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4887081852,
+      "lat": 49.3260707,
+      "lon": -123.0719789,
+      "tags": {
+        "name": "Vanak",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4937598273,
+      "lat": 49.2322091,
+      "lon": -123.0657913,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "5733",
+        "addr:street": "Victoria Drive",
+        "name": "K Goods Produce",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4957714312,
+      "lat": 49.2252001,
+      "lon": -123.0909725,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6529",
+        "addr:street": "Fraser Street",
+        "name": "Garden Fresh Food & Grocery",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4957825544,
+      "lat": 49.2448927,
+      "lon": -123.1015697,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "4475",
+        "addr:street": "Main Street",
+        "name": "Nester's Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4957934634,
+      "lat": 49.2526148,
+      "lon": -123.0814644,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1106",
+        "addr:street": "Kingsway",
+        "name": "My Tho Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4971491098,
+      "lat": 49.2379258,
+      "lon": -123.032415,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "5169",
+        "addr:street": "Joyce Street",
+        "name": "Kay Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5004274559,
+      "lat": 49.1750886,
+      "lon": -123.1333013,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "640-5300",
+        "addr:street": "No. 3 Road",
+        "check_date": "2023-06-19",
+        "name": "Langley Farm Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5008747008,
+      "lat": 49.1987982,
+      "lon": -122.975236,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "5771",
+        "addr:province": "BC",
+        "addr:street": "Marine Way",
+        "addr:unit": "600",
+        "name": "Sungiven Foods",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.sungivenfoods.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5032931733,
+      "lat": 49.3233523,
+      "lon": -123.1143398,
+      "tags": {
+        "addr:housenumber": "1449",
+        "addr:street": "Marine Drive",
+        "name": "Meridian Farm Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5032931736,
+      "lat": 49.3236668,
+      "lon": -123.115887,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "1595",
+        "addr:province": "BC",
+        "addr:street": "Marine Drive",
+        "name": "Sungiven Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040482369,
+      "lat": 49.1785608,
+      "lon": -123.121086,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "4700",
+        "addr:province": "BC",
+        "addr:street": "Alderbridge Way Multi-use Pathway",
+        "name": "Darumaya",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5041710308,
+      "lat": 49.1707666,
+      "lon": -123.1331778,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "20-8251",
+        "addr:street": "Westminster Highway",
+        "name": "Grand Value Asian Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5041710311,
+      "lat": 49.1705074,
+      "lon": -123.1334469,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "100-8211",
+        "addr:street": "Westminster Highway",
+        "name": "Golden Summit",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5041727555,
+      "lat": 49.1750732,
+      "lon": -123.1326336,
+      "tags": {
+        "check_date": "2023-06-19",
+        "name": "Smart 'n Save",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5042093551,
+      "lat": 49.1872202,
+      "lon": -123.12925,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "8388",
+        "addr:province": "BC",
+        "addr:street": "Capstan Way",
+        "addr:unit": "1414",
+        "name": "2000 Supermarket",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5311540456,
+      "lat": 49.3205497,
+      "lon": -123.0954837,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "801",
+        "addr:street": "Marine Drive",
+        "name": "Choice's Markets",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5536929322,
+      "lat": 49.2795476,
+      "lon": -122.9688241,
+      "tags": {
+        "addr:housenumber": "6530",
+        "addr:street": "Hastings Street",
+        "name": "Parkgate Farm Market",
+        "opening_hours": "Tu-Su 08:30-18:30; Mo 08:00-18:30",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5569314288,
+      "lat": 49.2195436,
+      "lon": -123.0405139,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "7060",
+        "addr:street": "Kerr Street",
+        "addr:unit": "7",
+        "name": "Kin's Farm Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5570346978,
+      "lat": 49.2289211,
+      "lon": -123.002018,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "4650",
+        "addr:street": "Kingsway",
+        "addr:unit": "110",
+        "brand": "Pricesmart Foods",
+        "brand:wikidata": "Q17023287",
+        "name": "PriceSmart Foods",
+        "name:en": "PriceSmart Foods",
+        "name:zh-Hans": "佳廉超市",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-604-431-0227",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5720904683,
+      "lat": 49.205383,
+      "lon": -123.007612,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "8620",
+        "addr:province": "BC",
+        "addr:street": "Glenlyon Parkway",
+        "addr:unit": "110",
+        "name": "Choice's Markets",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5720904684,
+      "lat": 49.2063689,
+      "lon": -123.007859,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:unit": "137",
+        "name": "The Low Carb Grocery",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5759788842,
+      "lat": 49.2347553,
+      "lon": -123.1580423,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2215",
+        "addr:street": "West 41st Avenue",
+        "name": "Kin's Farm Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5759788853,
+      "lat": 49.2348683,
+      "lon": -123.1600043,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2307",
+        "addr:street": "West 41st Avenue",
+        "name": "West Wood Organics",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5759848931,
+      "lat": 49.235926,
+      "lon": -123.185527,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "5557",
+        "addr:street": "Dunbar Street",
+        "name": "H-Mart",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5835758622,
+      "lat": 49.2835209,
+      "lon": -123.075774,
+      "tags": {
+        "email": "info@powellbeer.com",
+        "name": "Powell Brewery",
+        "product": "beer",
+        "shop": "supermarket",
+        "website": "https://www.powellbeer.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5925534985,
+      "lat": 49.2745481,
+      "lon": -123.1259674,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1312",
+        "addr:province": "BC",
+        "addr:street": "Richards Street",
+        "air_conditioning": "yes",
+        "check_date:opening_hours": "2022-09-22",
+        "name": "Farm to Table",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5950632811,
+      "lat": 49.3288994,
+      "lon": -123.1558336,
+      "tags": {
+        "addr:housenumber": "1451",
+        "addr:postcode": "V7T 1G1",
+        "addr:street": "Clyde Avenue",
+        "name": "Mitra's Market",
+        "opening_hours": "Mo-Sa 09:00-20:15; Su 09:00-20:00",
+        "phone": "+1 604 913 0660",
+        "shop": "supermarket",
+        "website": "https://mitras-market.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5994415255,
+      "lat": 49.1856938,
+      "lon": -123.1302676,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "3779",
+        "addr:street": "Sexsmith Road",
+        "addr:unit": "1178",
+        "name": "New Hong Kong Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6136505599,
+      "lat": 49.2809076,
+      "lon": -123.0118516,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "4170",
+        "addr:street": "Hastings Street",
+        "name": "Red Apple Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6136542354,
+      "lat": 49.2259507,
+      "lon": -123.0909427,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6457",
+        "addr:street": "Fraser Street",
+        "name": "Money BBQ & Produce",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6136798875,
+      "lat": 49.2262737,
+      "lon": -123.1018111,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6437",
+        "addr:street": "Main Street",
+        "name": "Persia Foods",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6148845954,
+      "lat": 49.320104,
+      "lon": -123.0712773,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "120",
+        "addr:street": "East 13th Street",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6241032643,
+      "lat": 49.2259885,
+      "lon": -123.065506,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6414",
+        "addr:street": "Victoria Drive",
+        "name": "Golden Star Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6302107028,
+      "lat": 49.2666239,
+      "lon": -123.2497627,
+      "tags": {
+        "layer": "-1",
+        "name": "International News Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6302107033,
+      "lat": 49.2663499,
+      "lon": -123.2493496,
+      "tags": {
+        "name": "Grocery Checkout",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6326045153,
+      "lat": 49.2430559,
+      "lon": -123.061666,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2206",
+        "addr:postcode": "V5N 2T7",
+        "addr:province": "BC",
+        "addr:street": "Kingsway",
+        "brand": "T&T Supermarket",
+        "brand:wikidata": "Q837893",
+        "brand:wikipedia": "en:T & T Supermarket",
+        "name": "大統華 T&T Supermarket",
+        "name:en": "T&T Supermarket",
+        "name:zh-Hans": "大统华",
+        "name:zh-Hant": "大統華",
+        "opening_hours": "09:00-22:00",
+        "payment:alipay": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:gift_card": "yes",
+        "payment:interac": "yes",
+        "payment:mastercard": "yes",
+        "payment:unionpay": "yes",
+        "payment:visa": "yes",
+        "payment:wechat": "yes",
+        "phone": "+1 604 559 8586",
+        "shop": "supermarket",
+        "website": "https://www.tntsupermarket.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6410838666,
+      "lat": 49.262667,
+      "lon": -123.0896109,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "675",
+        "addr:postcode": "V5T 1X7",
+        "addr:province": "BC",
+        "addr:street": "East Broadway",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Nada",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6434862017,
+      "lat": 49.3250418,
+      "lon": -123.137717,
+      "tags": {
+        "indoor": "yes",
+        "layer": "1",
+        "level": "1",
+        "name": "Osaka - Park Royal",
+        "opening_hours": "Su-Fr 10:00-21:00; Sa 09:30-21:00",
+        "phone": "+1-778-279-8988",
+        "shop": "supermarket",
+        "website": "https://www.tnt-supermarket.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6577533723,
+      "lat": 49.252225,
+      "lon": -123.080692,
+      "tags": {
+        "name": "New Fresh Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6638583906,
+      "lat": 49.2239442,
+      "lon": -122.9829999,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "5593",
+        "addr:street": "Kingsway",
+        "name": "Assi Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6741233053,
+      "lat": 49.2062939,
+      "lon": -123.0303087,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "8550",
+        "addr:street": "River District Crossing",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6741265866,
+      "lat": 49.227333,
+      "lon": -123.1554005,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6455",
+        "addr:street": "West Boulevard",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6806550826,
+      "lat": 49.2745499,
+      "lon": -123.120321,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1155",
+        "addr:postcode": "V6B 5Z3",
+        "addr:province": "BC",
+        "addr:street": "Pacific Boulevard",
+        "email": "info@labottegadimangia.com",
+        "name": "La Bottega Di Mangia",
+        "opening_hours": "Tu-Su 09:00-18:00",
+        "phone": "+1-604-559-1102",
+        "shop": "supermarket",
+        "website": "https://www.labottegadimangia.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813241505,
+      "lat": 49.2626519,
+      "lon": -123.099624,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "264",
+        "addr:street": "East Broadway",
+        "name": "Nester's Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6862194076,
+      "lat": 49.2642278,
+      "lon": -123.169179,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2827",
+        "addr:street": "West Broadway",
+        "name": "Persia Foods",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+        "shop": "supermarket",
+        "website": "http://www.persiafoods.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6862244146,
+      "lat": 49.3100112,
+      "lon": -123.0783124,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "125",
+        "addr:street": "Victory Ship Way",
+        "addr:unit": "140",
+        "name": "Larry's Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7005912907,
+      "lat": 49.2193859,
+      "lon": -122.9501231,
+      "tags": {
+        "addr:housenumber": "7351",
+        "addr:street": "Edmonds Street",
+        "cuisine": "filipino;oriental",
+        "name": "Grand Food Mart",
+        "operator": "Arc Commodities Ltd",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7016422910,
+      "lat": 49.3386763,
+      "lon": -123.1032461,
+      "tags": {
+        "name": "Thrifty Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7016455366,
+      "lat": 49.2608683,
+      "lon": -123.116991,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "555",
+        "addr:province": "BC",
+        "addr:street": "West 12th Avenue",
+        "addr:unit": "42",
+        "name": "Sungiven Foods",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7062119702,
+      "lat": 49.2682595,
+      "lon": -123.0694397,
+      "tags": {
+        "addr:housenumber": "1824",
+        "addr:street": "Commercial Drive",
+        "name": "Mediterranean Specialty Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7083403419,
+      "lat": 49.1642928,
+      "lon": -123.1350627,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "8108",
+        "addr:province": "BC",
+        "addr:street": "Park Road",
+        "name": "Wah Shang Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7083406176,
+      "lat": 49.2902777,
+      "lon": -123.1344236,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "837",
+        "addr:province": "BC",
+        "addr:street": "Bidwell Street",
+        "name": "Aria Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7198216526,
+      "lat": 49.3161568,
+      "lon": -122.971146,
+      "tags": {
+        "addr:housenumber": "3650",
+        "addr:street": "Mount Seymour Parkway",
+        "addr:unit": "151",
+        "name": "The Source Bulk Foods",
+        "opening_hours": "Mo 08:00-18:30; Tu 08:00-18:30; We 08:00-18:30; Th 08:00-18:30; Fr 08:00-18:30; Sa 08:00-18:30; Su 09:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7368543799,
+      "lat": 49.2808949,
+      "lon": -123.013843,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "4106",
+        "addr:province": "BC",
+        "addr:street": "Hastings Street",
+        "cuisine": "chinese",
+        "name": "Sungiven Foods",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket",
+        "website": "https://sungivenfoods.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7377426636,
+      "lat": 49.2623979,
+      "lon": -123.0971766,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "370",
+        "addr:province": "BC",
+        "addr:street": "East Broadway",
+        "addr:unit": "200",
+        "level": "1",
+        "name": "Buy-Low Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7443788485,
+      "lat": 49.2819265,
+      "lon": -123.1329073,
+      "tags": {
+        "addr:street": "Bute Street",
+        "name": "Collective Market",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:30-20:00; Su 10:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7508864717,
+      "lat": 49.2793736,
+      "lon": -123.0654619,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "562",
+        "addr:postcode": "V5L 4E2",
+        "addr:street": "Victoria Drive",
+        "level": "0",
+        "name": "Bosa Foods",
+        "phone": "+1-604-216-2659",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7590801237,
+      "lat": 49.2855022,
+      "lon": -123.1387341,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1611",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7863899172,
+      "lat": 49.2194147,
+      "lon": -122.94925,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "7380",
+        "addr:province": "BC",
+        "addr:street": "Edmonds Street",
+        "name": "Buy-Low Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8294734201,
+      "lat": 49.275371,
+      "lon": -123.130507,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1423",
+        "addr:province": "BC",
+        "addr:street": "Continental Street",
+        "name": "Fresh Street Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8326257083,
+      "lat": 49.2642796,
+      "lon": -123.1714968,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2959",
+        "addr:province": "BC",
+        "addr:street": "West Broadway",
+        "name": "F.I.S.H Market/ Cafe",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8473229177,
+      "lat": 49.2486073,
+      "lon": -123.1539021,
+      "tags": {
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "PH,Mo-Su 07:00-23:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8541566047,
+      "lat": 49.264419,
+      "lon": -123.1780803,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3301",
+        "addr:postcode": "V6R 2B1",
+        "addr:province": "BC",
+        "addr:street": "West Broadway",
+        "name": "Sungiven Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8699691023,
+      "lat": 49.2198456,
+      "lon": -122.9730849,
+      "tags": {
+        "addr:housenumber": "6218",
+        "addr:street": "Kingsway",
+        "email": "healthsoyfoods@hotmail.com",
+        "name": "King's Market",
+        "phone": "+1-604-428-8886",
+        "shop": "supermarket",
+        "website": "https://www.healthysoyfoods.net/grocery-store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8724590031,
+      "lat": 49.2243723,
+      "lon": -123.1018821,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6635",
+        "addr:province": "BC",
+        "addr:street": "Main Street",
+        "name": "Punjab Food Center",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8808637992,
+      "lat": 49.3225591,
+      "lon": -123.0954835,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "820",
+        "addr:province": "BC",
+        "addr:street": "West 15th Street",
+        "name": "Hodori Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9025493155,
+      "lat": 49.3123163,
+      "lon": -123.081854,
+      "tags": {
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9025574480,
+      "lat": 49.3240957,
+      "lon": -123.115058,
+      "tags": {
+        "brand": "Bulk Barn",
+        "brand:wikidata": "Q4996466",
+        "brand:wikipedia": "en:Bulk Barn",
+        "name": "Bulk Barn",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9032710477,
+      "lat": 49.281206,
+      "lon": -123.1006063,
+      "tags": {
+        "name": "Eastend Grocers/Deli",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9083023595,
+      "lat": 49.2716252,
+      "lon": -123.155276,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2200",
+        "addr:postcode": "V6K 3E8",
+        "addr:province": "BC",
+        "addr:street": "York Avenue",
+        "name": "Kitsilano Natural Foods",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-604-738-0326",
+        "shop": "supermarket",
+        "website": "https://kitsilano-natural-foods.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9136754756,
+      "lat": 49.2469714,
+      "lon": -123.1014459,
+      "tags": {
+        "addr:housenumber": "4323",
+        "addr:street": "Main Street",
+        "name": "Jasmine Mediterranean Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9181815216,
+      "lat": 49.3239122,
+      "lon": -123.0718946,
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "1650",
+        "addr:province": "BC",
+        "addr:street": "Lonsdale Avenue",
+        "brand": "Loblaws",
+        "brand:wikidata": "Q3257626",
+        "level": "1",
+        "name": "Loblaws City Market;Loblaws",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9219795195,
+      "lat": 49.2195023,
+      "lon": -122.9569006,
+      "tags": {
+        "addr:housenumber": "7119",
+        "addr:street": "Arcola Way",
+        "name": "Jumbo Super Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9707740852,
+      "lat": 49.2917711,
+      "lon": -123.13526,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "779",
+        "addr:province": "BC",
+        "addr:street": "Denman Street",
+        "description": "Hot sauces",
+        "name": "Lucifer's",
+        "opening_hours:signed": "no",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9708365867,
+      "lat": 49.2910954,
+      "lon": -123.1352423,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1766",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "level": "1",
+        "name": "Safeway",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9823851067,
+      "lat": 49.281237,
+      "lon": -123.0167046,
+      "tags": {
+        "addr:housenumber": "3993",
+        "addr:street": "Hastings Street",
+        "email": "info@mitierralatina.ca",
+        "name": "Mi Tierra Latina",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+1-604-294-1816",
+        "shop": "supermarket",
+        "website": "https://mitierralatina.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10025349888,
+      "lat": 49.2641842,
+      "lon": -123.166285,
+      "tags": {
+        "addr:housenumber": "2699",
+        "addr:street": "West Broadway",
+        "brand": "The Source Bulk Foods",
+        "brand:wikidata": "Q113771168",
+        "name": "The Source Bulk Foods",
+        "opening_hours": "Mo-Su 10:30-19:00",
+        "shop": "supermarket",
+        "zero_waste": "only"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10108044425,
+      "lat": 49.2668751,
+      "lon": -123.0081019,
+      "tags": {
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10203000018,
+      "lat": 49.2187462,
+      "lon": -122.962929,
+      "tags": {
+        "addr:housenumber": "6791",
+        "addr:street": "Kingsway",
+        "name": "Persia Food",
+        "shop": "supermarket",
+        "website": "http://www.persiafoods.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10613042205,
+      "lat": 49.2656964,
+      "lon": -123.2369453,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "5380",
+        "addr:province": "BC",
+        "addr:street": "University Boulevard",
+        "name": "Urban Fare",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10802453606,
+      "lat": 49.2311611,
+      "lon": -123.0046692,
+      "tags": {
+        "addr:city": "Burnaby",
+        "addr:housenumber": "4469",
+        "addr:postcode": "V5H 2A6",
+        "addr:street": "Kingsway",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-604-437-3220",
+        "shop": "supermarket",
+        "website": "https://www.saveonfoods.com/store/willingdon/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10889324465,
+      "lat": 49.1801132,
+      "lon": -123.1384282,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "4551",
+        "addr:province": "BC",
+        "addr:street": "No. 3 Road",
+        "addr:unit": "180",
+        "name": "Big Crazy Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23775852,
+      "nodes": [
+        257603906,
+        6386928482,
+        6386928478,
+        6386928483,
+        6386928586,
+        6386928477,
+        6386928481,
+        257603913,
+        6386928587,
+        6386928585,
+        6386928476,
+        6386928480,
+        257603914,
+        257603915,
+        257603916,
+        257603906
+      ],
+      "tags": {
+        "addr:city": "North Vancouver",
+        "addr:housenumber": "333",
+        "addr:street": "Seymour Boulevard",
+        "brand": "Real Canadian Superstore",
+        "brand:wikidata": "Q7300856",
+        "brand:wikipedia": "en:Real Canadian Superstore",
+        "building": "retail",
+        "name": "Real Canadian Superstore",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 58308303,
+      "nodes": [
+        723112956,
+        723112961,
+        723112965,
+        723112968,
+        723112970,
+        723112979,
+        723112983,
+        723112986,
+        723112990,
+        723112992,
+        3633386040,
+        723112997,
+        660080539,
+        723112956
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2733",
+        "addr:province": "BC",
+        "addr:street": "West Broadway",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "building": "yes",
+        "name": "Safeway",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61031427,
+      "nodes": [
+        763981092,
+        763981093,
+        763981094,
+        1704177525,
+        1704177533,
+        1704197788,
+        1704177531,
+        1704177522,
+        763981095,
+        763981096,
+        763981097,
+        763981098,
+        1704177461,
+        5198827618,
+        5198827617,
+        1704177519,
+        1704177521,
+        763981092
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "350",
+        "addr:province": "BC",
+        "addr:street": "Southeast Marine Drive",
+        "building": "retail",
+        "name": "The Real Canadian Superstore",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "url": "http://www.realcanadiansuperstore.ca/LCLOnline/store_details_landing_page.jsp?storeId=832"
+      }
+    },
+    {
+      "type": "way",
+      "id": 62644822,
+      "nodes": [
+        780962649,
+        5127510025,
+        5127510024,
+        5127510023,
+        5127510321,
+        5127510022,
+        5127510322,
+        5127510026,
+        5127510027,
+        780962650,
+        1629036545,
+        1629036586,
+        780962651,
+        5127509923,
+        5127509924,
+        780962652,
+        5127510221,
+        5127509922,
+        780962649
+      ],
+      "tags": {
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "building": "retail",
+        "name": "Safeway",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 65535803,
+      "nodes": [
+        799581038,
+        3641281197,
+        3641281196,
+        3641281249,
+        3641281250,
+        3641281337,
+        3641281336,
+        3641281371,
+        3641281372,
+        799581042,
+        799581046,
+        799581049,
+        799581052,
+        3641281395,
+        799581055,
+        799581058,
+        5387543653,
+        799581061,
+        799581069,
+        799581073,
+        3641273277,
+        3641273265,
+        799581038
+      ],
+      "tags": {
+        "addr:housenumber": "3185",
+        "addr:postcode": "V5M 2E9",
+        "addr:street": "Grandview Highway",
+        "brand": "Real Canadian Superstore",
+        "brand:wikidata": "Q7300856",
+        "brand:wikipedia": "en:Real Canadian Superstore",
+        "building": "yes",
+        "name": "Real Canadian Superstore",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "phone": "+1-604-436-6407",
+        "shop": "supermarket",
+        "source": "Yahoo",
+        "website": "https://www.realcanadiansuperstore.ca/store-locator/?storeId=1520"
+      }
+    },
+    {
+      "type": "way",
+      "id": 80911207,
+      "nodes": [
+        943219122,
+        943219124,
+        943219118,
+        943219133,
+        943219122
+      ],
+      "tags": {
+        "addr:housenumber": "6837",
+        "addr:street": "Station Hill Drive",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2022-09-23",
+        "name": "Kim's Mart",
+        "name:en": "Kim's Mart",
+        "opening_hours": "Mo-Su 08:30-21:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 107142733,
+      "nodes": [
+        1143263794,
+        1143263788,
+        1143263785,
+        1143263764,
+        1143263786,
+        1143263766,
+        1143263761,
+        1143263779,
+        6391530870,
+        6391530869,
+        6391530867,
+        1143263794
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "5945",
+        "addr:postcode": "V6S 0B3",
+        "addr:street": "Berton Avenue",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "Save-On-Foods",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "source": "UBC Plant Ops 2011",
+        "ubc:building_num": "588-2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125715571,
+      "nodes": [
+        1395702038,
+        1395702055,
+        1395702040,
+        1395702035,
+        1395702033,
+        1395702013,
+        1395702029,
+        1395702071,
+        1395702027,
+        1395702014,
+        1395702016,
+        1395702072,
+        1395702031,
+        1395702038
+      ],
+      "tags": {
+        "addr:housenumber": "3585",
+        "addr:street": "Grandview Highway",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-604-435-6905",
+        "shop": "supermarket",
+        "website": "https://www.walmart.ca/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 128134545,
+      "nodes": [
+        1416646589,
+        1416646594,
+        1416646582,
+        1416646597,
+        1416646607,
+        1416646629,
+        10309241132,
+        10309241126,
+        1416646589
+      ],
+      "tags": {
+        "addr:housenumber": "1650",
+        "addr:postcode": "V7V 1J1",
+        "addr:street": "Marine Drive",
+        "building": "retail",
+        "building:levels": "2",
+        "contact:facebook": "freshstmarket",
+        "contact:twitter": "FreshStMarket",
+        "email": "ithink@freshstmarket.com",
+        "name": "Fresh St. Market",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su,PH 07:00-19:00",
+        "phone": "+1 604 913 7757",
+        "shop": "supermarket",
+        "website": "https://www.freshstmarket.com/contact/west-vancouver"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131429387,
+      "nodes": [
+        1446469150,
+        1446469455,
+        1446469149,
+        1446469152,
+        1446469151,
+        1446469456,
+        1446614473,
+        1446469162,
+        1446469163,
+        1446469166,
+        1446469457,
+        1446469169,
+        1446469164,
+        1446469165,
+        1446614463,
+        1446469157,
+        1446469154,
+        1446469153,
+        1446469150
+      ],
+      "tags": {
+        "addr:housenumber": "4651",
+        "addr:postcode": "V6X 2C4",
+        "addr:street": "Number 3 Road",
+        "building": "yes",
+        "layer": "1",
+        "name": "The Real Canadian Superstore",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "supermarket",
+        "shop:level": "1",
+        "source": "bing",
+        "website": "https://www.realcanadiansuperstore.ca/store-locator/details/1557"
+      }
+    },
+    {
+      "type": "way",
+      "id": 135495133,
+      "nodes": [
+        1488252402,
+        1488252395,
+        1488252380,
+        1488252379,
+        1488252376,
+        1488252392,
+        1488252402
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "2315",
+        "addr:postcode": "V6K 1P2",
+        "addr:province": "BC",
+        "addr:street": "West 4th Avenue",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "building": "yes",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1 604-737-9803",
+        "shop": "supermarket",
+        "website": "https://www.safeway.ca/stores/safeway-west-fourth-and-vine/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 155384735,
+      "nodes": [
+        1677919679,
+        1677919693,
+        1677919694,
+        1677919689,
+        1677919691,
+        1677919680,
+        1677919679
+      ],
+      "tags": {
+        "addr:housenumber": "5335",
+        "addr:street": "Kingsway",
+        "building": "yes",
+        "name": "Wholesale Club",
+        "opening_hours": "Mo-Fr 07:00-20:30; Sa 07:00-18:00; Su 08:00-18:00",
+        "phone": "+1-604-431-0765",
+        "shop": "supermarket",
+        "website": "https://www.wholesaleclub.ca/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156138510,
+      "nodes": [
+        1684266473,
+        1684266467,
+        1684266466,
+        1684266470,
+        1684266469,
+        1684266471,
+        1684266473
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "3535",
+        "addr:street": "West 41st Avenue",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "building": "yes",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160290278,
+      "nodes": [
+        1723440487,
+        1723440486,
+        1723440426,
+        1723440428,
+        1723440452,
+        1723440487
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "310",
+        "addr:province": "BC",
+        "addr:street": "West Broadway",
+        "air_conditioning": "yes",
+        "brand": "No Frills",
+        "brand:wikidata": "Q3342407",
+        "brand:wikipedia": "en:No Frills (grocery store)",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "No Frills",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "website": "https://www.nofrills.ca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194950730,
+      "nodes": [
+        4019129594,
+        2054662412,
+        3707565025,
+        3707564925,
+        4019129594
+      ],
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "9771",
+        "addr:postcode": "V6X 1S3",
+        "addr:province": "BC",
+        "addr:street": "Bridgeport Road",
+        "brand:wikidata": "Q7191691",
+        "brand:wikipedia": "en:Pier 1 Imports",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Sungiven Foods",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 223173357,
+      "nodes": [
+        2288279916,
+        2321011530,
+        3679459602,
+        3679459603,
+        2321015151,
+        2321011537,
+        3679459601,
+        2288279918,
+        3679459604,
+        3679459606,
+        3679459607,
+        3679459605,
+        2288279916
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1255",
+        "addr:postcode": "V6E 1N4",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "brand": "Your Independent Grocer",
+        "brand:wikidata": "Q8058833",
+        "brand:wikipedia": "en:Your Independent Grocer",
+        "building": "retail",
+        "building:levels": "1",
+        "height": "5",
+        "name": "Your Independent Grocer",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "operator": "Loblaws Inc",
+        "phone": "+1-604-688-0911",
+        "shop": "supermarket",
+        "source": "https://www.yourindependentgrocer.ca/",
+        "website": "https://www.yourindependentgrocer.ca/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290619192,
+      "nodes": [
+        2941312299,
+        2941312300,
+        2941312703,
+        2941312704,
+        3700166573,
+        3700166572,
+        3700166576,
+        3700166577,
+        2941312299
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1780",
+        "addr:postcode": "V5N 1W3",
+        "addr:street": "East Broadway",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "building": "retail",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "operator": "Canada Safeway Ltd.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 291857692,
+      "nodes": [
+        2953682877,
+        3551897962,
+        2953682884,
+        2953682878,
+        2953682897,
+        2953682877
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1316",
+        "addr:province": "BC",
+        "addr:street": "Commercial Drive",
+        "building": "yes",
+        "name": "Santa Barbara Market",
+        "opening_hours": "Mo-Su 10:00-18:30",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 292138793,
+      "nodes": [
+        2956811738,
+        2956811750,
+        2956811742,
+        2956811743,
+        2956811739,
+        2956811738
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1626",
+        "addr:street": "Commercial Drive",
+        "building": "yes",
+        "name": "Triple A Market",
+        "phone": "+1-604-253-6326",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 292138800,
+      "nodes": [
+        2956811764,
+        2956811762,
+        2956811763,
+        2956811765,
+        2956811764
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1604",
+        "addr:street": "Commercial Drive",
+        "building": "yes",
+        "name": "Norman's Fruit and Salad",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293134549,
+      "nodes": [
+        2967049051,
+        2967049052,
+        2967049053,
+        2967049054,
+        2967049050,
+        2967049051
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "698",
+        "addr:street": "Kingsway",
+        "building": "yes",
+        "name": "Tama Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 302208356,
+      "nodes": [
+        3064621662,
+        3064621663,
+        3064621664,
+        3064621665,
+        3064621666,
+        3064621667,
+        3064621668,
+        3064621669,
+        3064621670,
+        3064621671,
+        3064621672,
+        3064621673,
+        3064621674,
+        3749738734,
+        3064621662
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1460",
+        "addr:province": "BC",
+        "addr:street": "East Hastings Street",
+        "brand": "No Frills",
+        "brand:wikidata": "Q3342407",
+        "brand:wikipedia": "en:No Frills (grocery store)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "No Frills",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 356996199,
+      "nodes": [
+        3623929658,
+        3623929652,
+        3623929653,
+        3623929654,
+        3623929662,
+        3623929660,
+        3623929658
+      ],
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "6257",
+        "addr:province": "BC",
+        "addr:street": "Fraser Street",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Fruiticana",
+        "opening_hours": "9:00-20:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 357715761,
+      "nodes": [
+        3628771592,
+        3628771591,
+        3628771584,
+        3628771585,
+        3628771592
+      ],
+      "tags": {
+        "addr:housenumber": "8777",
+        "addr:street": "Odlin Crescent",
+        "building": "yes",
+        "name": "China World Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 359406041,
+      "nodes": [
+        3641281288,
+        3641281287,
+        3641281271,
+        3641281270,
+        3641273255,
+        3641273256,
+        3641273257,
+        3641273292,
+        3641273291,
+        3641281273,
+        3641281272,
+        3641281288
+      ],
+      "tags": {
+        "addr:housenumber": "2880",
+        "addr:street": "Bentall Street",
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "building": "retail",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1-604-434-5038",
+        "shop": "supermarket",
+        "website": "https://www.saveonfoods.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398585230,
+      "nodes": [
+        4013329436,
+        4013329439,
+        4013329467,
+        4013329466,
+        4013329465,
+        4013329530,
+        4013329545,
+        4013329544,
+        4013329541,
+        4013329517,
+        4013329516,
+        4013329502,
+        4013329503,
+        4013329464,
+        4013329463,
+        4013329451,
+        4013329452,
+        4013329436
+      ],
+      "tags": {
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "building": "retail",
+        "name": "Safeway",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 429556182,
+      "nodes": [
+        4287081459,
+        4287081443,
+        4287081437,
+        1417292424,
+        1417292426,
+        1417292442,
+        1417292440,
+        1417292443,
+        1417292436,
+        1417292441,
+        1417292444,
+        4287081459
+      ],
+      "tags": {
+        "brand": "Save-On-Foods",
+        "brand:wikidata": "Q7427974",
+        "brand:wikipedia": "en:Save-On-Foods",
+        "internet_access": "wireless",
+        "name": "Save-On-Foods",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1-604-983-2227",
+        "shop": "supermarket",
+        "website": "https://www.saveonfoods.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 492210909,
+      "nodes": [
+        4842591265,
+        4842591267,
+        4842591268,
+        4842591266,
+        4842591278,
+        9816269559,
+        4842591277,
+        4842591271,
+        4842591273,
+        4842591274,
+        4842591276,
+        8819154468,
+        4842591275,
+        4842591269,
+        9816269558,
+        4842591283,
+        4842591281,
+        4842591280,
+        4842591282,
+        4842591270,
+        4842591285,
+        4842591272,
+        4842591279,
+        4842591265
+      ],
+      "tags": {
+        "addr:housenumber": "4440",
+        "addr:street": "Hastings Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "building": "retail",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-604-205-6922",
+        "shop": "supermarket",
+        "website": "https://www.safeway.ca/stores/safeway-burnaby-heights/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 615645969,
+      "nodes": [
+        5821587253,
+        5821587254,
+        5821587255,
+        5821587256,
+        5821587253
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Henry's Grocery",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 809403362,
+      "nodes": [
+        1188607491,
+        3925670984,
+        3925670985,
+        1188607400,
+        1188607084,
+        1229989783,
+        1188607333,
+        1188607453,
+        1188607184,
+        1188607256,
+        1188607004,
+        7568020862,
+        1188607437,
+        1188607053,
+        1188607166,
+        1188607131,
+        1188607395,
+        1188607378,
+        7568020851,
+        1188607021,
+        1188607364,
+        1188616113,
+        1188607493,
+        1188607474,
+        7568020854,
+        7568038199,
+        1188607491
+      ],
+      "tags": {
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 821567907,
+      "nodes": [
+        7671368547,
+        7859417969,
+        3619893708,
+        3619893696,
+        7671368544,
+        7671368546,
+        7671368547
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Top Ten Produce",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 942399000,
+      "nodes": [
+        5844826159,
+        8726673518,
+        8726673519,
+        8726673520,
+        1446631827,
+        1446631826,
+        1446631821,
+        1446631820,
+        7072383641,
+        1446631800,
+        1446631801,
+        1446667781,
+        1446631817,
+        8726673521,
+        8726673522,
+        5844826159
+      ],
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:housenumber": "8311",
+        "addr:province": "BC",
+        "addr:street": "Lansdowne Road",
+        "addr:unit": "MAJ1",
+        "brand": "T&T Supermarket",
+        "brand:wikidata": "Q837893",
+        "brand:wikipedia": "en:T & T Supermarket",
+        "indoor": "area",
+        "level": "0",
+        "name": "大統華 T&T Supermarket",
+        "name:en": "T&T Supermarket",
+        "name:zh-Hans": "大统华",
+        "name:zh-Hant": "大統華",
+        "opening_hours": "08:00-00:00",
+        "shop": "supermarket",
+        "website": "https://www.tnt-supermarket.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1446631800,
+      "lat": 49.17454,
+      "lon": -123.1305442
+    },
+    {
+      "type": "node",
+      "id": 1446631801,
+      "lat": 49.1745494,
+      "lon": -123.1318452
+    },
+    {
+      "type": "node",
+      "id": 1446631817,
+      "lat": 49.1747637,
+      "lon": -123.1318416
+    },
+    {
+      "type": "node",
+      "id": 1446667781,
+      "lat": 49.1746725,
+      "lon": -123.1318431
+    },
+    {
+      "type": "node",
+      "id": 7072383641,
+      "lat": 49.174875,
+      "lon": -123.1305386
+    },
+    {
+      "type": "node",
+      "id": 8726673521,
+      "lat": 49.174817,
+      "lon": -123.1318455
+    },
+    {
+      "type": "node",
+      "id": 8726673522,
+      "lat": 49.1748182,
+      "lon": -123.1318012
+    },
+    {
+      "type": "node",
+      "id": 1446469149,
+      "lat": 49.1789264,
+      "lon": -123.1389636
+    },
+    {
+      "type": "node",
+      "id": 1446469150,
+      "lat": 49.1789335,
+      "lon": -123.137459
+    },
+    {
+      "type": "node",
+      "id": 1446469151,
+      "lat": 49.1789553,
+      "lon": -123.1393231
+    },
+    {
+      "type": "node",
+      "id": 1446469152,
+      "lat": 49.178957,
+      "lon": -123.138964
+    },
+    {
+      "type": "node",
+      "id": 1446469153,
+      "lat": 49.179019,
+      "lon": -123.13746
+    },
+    {
+      "type": "node",
+      "id": 1446469154,
+      "lat": 49.1790194,
+      "lon": -123.1373647
+    },
+    {
+      "type": "node",
+      "id": 1446469157,
+      "lat": 49.1793077,
+      "lon": -123.1373678
+    },
+    {
+      "type": "node",
+      "id": 1446469162,
+      "lat": 49.179734,
+      "lon": -123.1393317
+    },
+    {
+      "type": "node",
+      "id": 1446469163,
+      "lat": 49.1797357,
+      "lon": -123.1389843
+    },
+    {
+      "type": "node",
+      "id": 1446469164,
+      "lat": 49.179777,
+      "lon": -123.138229
+    },
+    {
+      "type": "node",
+      "id": 1446469165,
+      "lat": 49.1797811,
+      "lon": -123.1373731
+    },
+    {
+      "type": "node",
+      "id": 1446469166,
+      "lat": 49.1798074,
+      "lon": -123.1389851
+    },
+    {
+      "type": "node",
+      "id": 1446469169,
+      "lat": 49.1798109,
+      "lon": -123.1382293
+    },
+    {
+      "type": "node",
+      "id": 1446469455,
+      "lat": 49.1789296,
+      "lon": -123.1382767
+    },
+    {
+      "type": "node",
+      "id": 1446469456,
+      "lat": 49.1791204,
+      "lon": -123.1393249
+    },
+    {
+      "type": "node",
+      "id": 1446469457,
+      "lat": 49.1798099,
+      "lon": -123.138287
+    },
+    {
+      "type": "node",
+      "id": 1446614463,
+      "lat": 49.179462,
+      "lon": -123.137369
+    },
+    {
+      "type": "node",
+      "id": 1446614473,
+      "lat": 49.1795681,
+      "lon": -123.1393298
+    },
+    {
+      "type": "node",
+      "id": 1446631820,
+      "lat": 49.1751288,
+      "lon": -123.1305343
+    },
+    {
+      "type": "node",
+      "id": 1446631821,
+      "lat": 49.1751292,
+      "lon": -123.1305846
+    },
+    {
+      "type": "node",
+      "id": 1446631826,
+      "lat": 49.1754022,
+      "lon": -123.13058
+    },
+    {
+      "type": "node",
+      "id": 1446631827,
+      "lat": 49.1754071,
+      "lon": -123.1312504
+    },
+    {
+      "type": "node",
+      "id": 5844826159,
+      "lat": 49.1752339,
+      "lon": -123.131808
+    },
+    {
+      "type": "node",
+      "id": 8726673518,
+      "lat": 49.1752329,
+      "lon": -123.1313866
+    },
+    {
+      "type": "node",
+      "id": 8726673519,
+      "lat": 49.1751511,
+      "lon": -123.1313847
+    },
+    {
+      "type": "node",
+      "id": 8726673520,
+      "lat": 49.1751503,
+      "lon": -123.131255
+    },
+    {
+      "type": "node",
+      "id": 3628771584,
+      "lat": 49.1823252,
+      "lon": -123.1249006
+    },
+    {
+      "type": "node",
+      "id": 3628771585,
+      "lat": 49.1823265,
+      "lon": -123.1258037
+    },
+    {
+      "type": "node",
+      "id": 3628771591,
+      "lat": 49.1826948,
+      "lon": -123.1248993
+    },
+    {
+      "type": "node",
+      "id": 3628771592,
+      "lat": 49.1826963,
+      "lon": -123.1258024
+    },
+    {
+      "type": "node",
+      "id": 2054662412,
+      "lat": 49.192133,
+      "lon": -123.114144
+    },
+    {
+      "type": "node",
+      "id": 3707564925,
+      "lat": 49.1924377,
+      "lon": -123.1145342
+    },
+    {
+      "type": "node",
+      "id": 3707565025,
+      "lat": 49.192437,
+      "lon": -123.1141428
+    },
+    {
+      "type": "node",
+      "id": 4019129594,
+      "lat": 49.1921336,
+      "lon": -123.1145354
+    },
+    {
+      "type": "node",
+      "id": 1143263761,
+      "lat": 49.2545559,
+      "lon": -123.2371382
+    },
+    {
+      "type": "node",
+      "id": 1143263764,
+      "lat": 49.2547308,
+      "lon": -123.2365831
+    },
+    {
+      "type": "node",
+      "id": 1143263766,
+      "lat": 49.2545794,
+      "lon": -123.2370693
+    },
+    {
+      "type": "node",
+      "id": 1143263779,
+      "lat": 49.2546552,
+      "lon": -123.2372156
+    },
+    {
+      "type": "node",
+      "id": 1143263785,
+      "lat": 49.2547355,
+      "lon": -123.2365869
+    },
+    {
+      "type": "node",
+      "id": 1143263786,
+      "lat": 49.2545685,
+      "lon": -123.2370606
+    },
+    {
+      "type": "node",
+      "id": 1143263788,
+      "lat": 49.2548073,
+      "lon": -123.2363757
+    },
+    {
+      "type": "node",
+      "id": 1143263794,
+      "lat": 49.254899,
+      "lon": -123.2364487
+    },
+    {
+      "type": "node",
+      "id": 6391530867,
+      "lat": 49.254889,
+      "lon": -123.2364774
+    },
+    {
+      "type": "node",
+      "id": 6391530869,
+      "lat": 49.2546929,
+      "lon": -123.2370663
+    },
+    {
+      "type": "node",
+      "id": 6391530870,
+      "lat": 49.2547033,
+      "lon": -123.2370746
+    },
+    {
+      "type": "node",
+      "id": 3619893696,
+      "lat": 49.2635963,
+      "lon": -123.2100905
+    },
+    {
+      "type": "node",
+      "id": 3619893708,
+      "lat": 49.2637477,
+      "lon": -123.2100847
+    },
+    {
+      "type": "node",
+      "id": 7671368544,
+      "lat": 49.26355,
+      "lon": -123.2100922
+    },
+    {
+      "type": "node",
+      "id": 7671368546,
+      "lat": 49.2635545,
+      "lon": -123.2103661
+    },
+    {
+      "type": "node",
+      "id": 7671368547,
+      "lat": 49.2637521,
+      "lon": -123.2103586
+    },
+    {
+      "type": "node",
+      "id": 7859417969,
+      "lat": 49.2637485,
+      "lon": -123.2101318
+    },
+    {
+      "type": "node",
+      "id": 1684266466,
+      "lat": 49.2348934,
+      "lon": -123.1834518
+    },
+    {
+      "type": "node",
+      "id": 1684266467,
+      "lat": 49.2348988,
+      "lon": -123.1842572
+    },
+    {
+      "type": "node",
+      "id": 1684266469,
+      "lat": 49.2351846,
+      "lon": -123.1833043
+    },
+    {
+      "type": "node",
+      "id": 1684266470,
+      "lat": 49.2351855,
+      "lon": -123.1834472
+    },
+    {
+      "type": "node",
+      "id": 1684266471,
+      "lat": 49.2352634,
+      "lon": -123.1833031
+    },
+    {
+      "type": "node",
+      "id": 1684266473,
+      "lat": 49.2352698,
+      "lon": -123.1842514
+    },
+    {
+      "type": "node",
+      "id": 660080539,
+      "lat": 49.2643222,
+      "lon": -123.167811
+    },
+    {
+      "type": "node",
+      "id": 723112956,
+      "lat": 49.2643432,
+      "lon": -123.1678444
+    },
+    {
+      "type": "node",
+      "id": 723112961,
+      "lat": 49.2644838,
+      "lon": -123.1678421
+    },
+    {
+      "type": "node",
+      "id": 723112965,
+      "lat": 49.2647091,
+      "lon": -123.1674883
+    },
+    {
+      "type": "node",
+      "id": 723112968,
+      "lat": 49.2647076,
+      "lon": -123.167234
+    },
+    {
+      "type": "node",
+      "id": 723112970,
+      "lat": 49.2647878,
+      "lon": -123.1672346
+    },
+    {
+      "type": "node",
+      "id": 723112979,
+      "lat": 49.2647818,
+      "lon": -123.1667814
+    },
+    {
+      "type": "node",
+      "id": 723112983,
+      "lat": 49.2646554,
+      "lon": -123.1667865
+    },
+    {
+      "type": "node",
+      "id": 723112986,
+      "lat": 49.2645592,
+      "lon": -123.1666465
+    },
+    {
+      "type": "node",
+      "id": 723112990,
+      "lat": 49.2643514,
+      "lon": -123.1666585
+    },
+    {
+      "type": "node",
+      "id": 723112992,
+      "lat": 49.2641974,
+      "lon": -123.1668951
+    },
+    {
+      "type": "node",
+      "id": 723112997,
+      "lat": 49.264203,
+      "lon": -123.1676386
+    },
+    {
+      "type": "node",
+      "id": 3633386040,
+      "lat": 49.2641973,
+      "lon": -123.167116
+    },
+    {
+      "type": "node",
+      "id": 1488252376,
+      "lat": 49.268689,
+      "lon": -123.1589031
+    },
+    {
+      "type": "node",
+      "id": 1488252379,
+      "lat": 49.2685938,
+      "lon": -123.1589069
+    },
+    {
+      "type": "node",
+      "id": 1488252380,
+      "lat": 49.268581,
+      "lon": -123.1581452
+    },
+    {
+      "type": "node",
+      "id": 1488252392,
+      "lat": 49.2686903,
+      "lon": -123.1589815
+    },
+    {
+      "type": "node",
+      "id": 1488252395,
+      "lat": 49.2689285,
+      "lon": -123.1581314
+    },
+    {
+      "type": "node",
+      "id": 1488252402,
+      "lat": 49.2689427,
+      "lon": -123.1589716
+    },
+    {
+      "type": "node",
+      "id": 780962649,
+      "lat": 49.2486116,
+      "lon": -123.1269121
+    },
+    {
+      "type": "node",
+      "id": 780962650,
+      "lat": 49.2486035,
+      "lon": -123.1260699
+    },
+    {
+      "type": "node",
+      "id": 780962651,
+      "lat": 49.2482344,
+      "lon": -123.1260796
+    },
+    {
+      "type": "node",
+      "id": 780962652,
+      "lat": 49.2482567,
+      "lon": -123.1270232
+    },
+    {
+      "type": "node",
+      "id": 1629036545,
+      "lat": 49.2485649,
+      "lon": -123.1260707
+    },
+    {
+      "type": "node",
+      "id": 1629036586,
+      "lat": 49.2483153,
+      "lon": -123.1260777
+    },
+    {
+      "type": "node",
+      "id": 5127509922,
+      "lat": 49.2483864,
+      "lon": -123.1269173
+    },
+    {
+      "type": "node",
+      "id": 5127509923,
+      "lat": 49.2482427,
+      "lon": -123.1269118
+    },
+    {
+      "type": "node",
+      "id": 5127509924,
+      "lat": 49.2482556,
+      "lon": -123.1269115
+    },
+    {
+      "type": "node",
+      "id": 5127510022,
+      "lat": 49.2486102,
+      "lon": -123.1263714
+    },
+    {
+      "type": "node",
+      "id": 5127510023,
+      "lat": 49.2486391,
+      "lon": -123.1266666
+    },
+    {
+      "type": "node",
+      "id": 5127510024,
+      "lat": 49.24864,
+      "lon": -123.1267602
+    },
+    {
+      "type": "node",
+      "id": 5127510025,
+      "lat": 49.2486101,
+      "lon": -123.1267608
+    },
+    {
+      "type": "node",
+      "id": 5127510026,
+      "lat": 49.2486347,
+      "lon": -123.1262833
+    },
+    {
+      "type": "node",
+      "id": 5127510027,
+      "lat": 49.2486055,
+      "lon": -123.126284
+    },
+    {
+      "type": "node",
+      "id": 5127510221,
+      "lat": 49.2483874,
+      "lon": -123.1270201
+    },
+    {
+      "type": "node",
+      "id": 5127510321,
+      "lat": 49.2486131,
+      "lon": -123.1266672
+    },
+    {
+      "type": "node",
+      "id": 5127510322,
+      "lat": 49.2486356,
+      "lon": -123.1263708
+    },
+    {
+      "type": "node",
+      "id": 1723440426,
+      "lat": 49.2626803,
+      "lon": -123.111095
+    },
+    {
+      "type": "node",
+      "id": 1723440428,
+      "lat": 49.2627039,
+      "lon": -123.1123583
+    },
+    {
+      "type": "node",
+      "id": 1723440452,
+      "lat": 49.2627983,
+      "lon": -123.1123542
+    },
+    {
+      "type": "node",
+      "id": 1723440486,
+      "lat": 49.2630266,
+      "lon": -123.1110798
+    },
+    {
+      "type": "node",
+      "id": 1723440487,
+      "lat": 49.2630503,
+      "lon": -123.1123431
+    },
+    {
+      "type": "node",
+      "id": 2288279916,
+      "lat": 49.2825067,
+      "lon": -123.1342965
+    },
+    {
+      "type": "node",
+      "id": 2288279918,
+      "lat": 49.2827256,
+      "lon": -123.1339627
+    },
+    {
+      "type": "node",
+      "id": 2321011530,
+      "lat": 49.282273,
+      "lon": -123.1339335
+    },
+    {
+      "type": "node",
+      "id": 2321011537,
+      "lat": 49.2825191,
+      "lon": -123.1335282
+    },
+    {
+      "type": "node",
+      "id": 2321015151,
+      "lat": 49.2825016,
+      "lon": -123.1335571
+    },
+    {
+      "type": "node",
+      "id": 3679459601,
+      "lat": 49.2827613,
+      "lon": -123.133914
+    },
+    {
+      "type": "node",
+      "id": 3679459602,
+      "lat": 49.282307,
+      "lon": -123.1338776
+    },
+    {
+      "type": "node",
+      "id": 3679459603,
+      "lat": 49.2822936,
+      "lon": -123.1338581
+    },
+    {
+      "type": "node",
+      "id": 3679459604,
+      "lat": 49.2826591,
+      "lon": -123.1340641
+    },
+    {
+      "type": "node",
+      "id": 3679459605,
+      "lat": 49.2825747,
+      "lon": -123.1341928
+    },
+    {
+      "type": "node",
+      "id": 3679459606,
+      "lat": 49.2826501,
+      "lon": -123.1340491
+    },
+    {
+      "type": "node",
+      "id": 3679459607,
+      "lat": 49.282566,
+      "lon": -123.1341781
+    },
+    {
+      "type": "node",
+      "id": 763981092,
+      "lat": 49.2089803,
+      "lon": -123.1003148
+    },
+    {
+      "type": "node",
+      "id": 763981093,
+      "lat": 49.2089719,
+      "lon": -123.0998363
+    },
+    {
+      "type": "node",
+      "id": 763981094,
+      "lat": 49.2090228,
+      "lon": -123.0998342
+    },
+    {
+      "type": "node",
+      "id": 763981095,
+      "lat": 49.2090154,
+      "lon": -123.0994125
+    },
+    {
+      "type": "node",
+      "id": 763981096,
+      "lat": 49.2089664,
+      "lon": -123.0994145
+    },
+    {
+      "type": "node",
+      "id": 763981097,
+      "lat": 49.2089521,
+      "lon": -123.0985987
+    },
+    {
+      "type": "node",
+      "id": 763981098,
+      "lat": 49.2079639,
+      "lon": -123.0986393
+    },
+    {
+      "type": "node",
+      "id": 1704177461,
+      "lat": 49.2079933,
+      "lon": -123.1003173
+    },
+    {
+      "type": "node",
+      "id": 1704177519,
+      "lat": 49.2087414,
+      "lon": -123.1002868
+    },
+    {
+      "type": "node",
+      "id": 1704177521,
+      "lat": 49.208742,
+      "lon": -123.1003246
+    },
+    {
+      "type": "node",
+      "id": 1704177522,
+      "lat": 49.2090139,
+      "lon": -123.0993264
+    },
+    {
+      "type": "node",
+      "id": 1704177525,
+      "lat": 49.2090243,
+      "lon": -123.0999197
+    },
+    {
+      "type": "node",
+      "id": 1704177531,
+      "lat": 49.2090823,
+      "lon": -123.0993236
+    },
+    {
+      "type": "node",
+      "id": 1704177533,
+      "lat": 49.2090927,
+      "lon": -123.0999169
+    },
+    {
+      "type": "node",
+      "id": 1704197788,
+      "lat": 49.2090872,
+      "lon": -123.0996031
+    },
+    {
+      "type": "node",
+      "id": 5198827617,
+      "lat": 49.2082663,
+      "lon": -123.1003061
+    },
+    {
+      "type": "node",
+      "id": 5198827618,
+      "lat": 49.2082003,
+      "lon": -123.1003088
+    },
+    {
+      "type": "node",
+      "id": 3623929652,
+      "lat": 49.22774,
+      "lon": -123.0908986
+    },
+    {
+      "type": "node",
+      "id": 3623929653,
+      "lat": 49.2277426,
+      "lon": -123.0912457
+    },
+    {
+      "type": "node",
+      "id": 3623929654,
+      "lat": 49.2277435,
+      "lon": -123.091357
+    },
+    {
+      "type": "node",
+      "id": 3623929658,
+      "lat": 49.2278339,
+      "lon": -123.0908969
+    },
+    {
+      "type": "node",
+      "id": 3623929660,
+      "lat": 49.2278358,
+      "lon": -123.0911543
+    },
+    {
+      "type": "node",
+      "id": 3623929662,
+      "lat": 49.2278374,
+      "lon": -123.0913553
+    },
+    {
+      "type": "node",
+      "id": 2967049050,
+      "lat": 49.2565283,
+      "lon": -123.0900877
+    },
+    {
+      "type": "node",
+      "id": 2967049051,
+      "lat": 49.2566598,
+      "lon": -123.0900813
+    },
+    {
+      "type": "node",
+      "id": 2967049052,
+      "lat": 49.2567667,
+      "lon": -123.0903154
+    },
+    {
+      "type": "node",
+      "id": 2967049053,
+      "lat": 49.2566304,
+      "lon": -123.0904615
+    },
+    {
+      "type": "node",
+      "id": 2967049054,
+      "lat": 49.2565316,
+      "lon": -123.090245
+    },
+    {
+      "type": "node",
+      "id": 2941312299,
+      "lat": 49.262151,
+      "lon": -123.0682534
+    },
+    {
+      "type": "node",
+      "id": 2941312300,
+      "lat": 49.2621614,
+      "lon": -123.0689339
+    },
+    {
+      "type": "node",
+      "id": 2941312703,
+      "lat": 49.2614767,
+      "lon": -123.0689379
+    },
+    {
+      "type": "node",
+      "id": 2941312704,
+      "lat": 49.2614724,
+      "lon": -123.0682628
+    },
+    {
+      "type": "node",
+      "id": 3700166572,
+      "lat": 49.2618927,
+      "lon": -123.0682065
+    },
+    {
+      "type": "node",
+      "id": 3700166573,
+      "lat": 49.261893,
+      "lon": -123.0682566
+    },
+    {
+      "type": "node",
+      "id": 3700166576,
+      "lat": 49.2620363,
+      "lon": -123.0682044
+    },
+    {
+      "type": "node",
+      "id": 3700166577,
+      "lat": 49.2620366,
+      "lon": -123.0682551
+    },
+    {
+      "type": "node",
+      "id": 2953682877,
+      "lat": 49.2727581,
+      "lon": -123.0694161
+    },
+    {
+      "type": "node",
+      "id": 2953682878,
+      "lat": 49.2725538,
+      "lon": -123.0689551
+    },
+    {
+      "type": "node",
+      "id": 2953682884,
+      "lat": 49.2725551,
+      "lon": -123.0691052
+    },
+    {
+      "type": "node",
+      "id": 2953682897,
+      "lat": 49.2727542,
+      "lon": -123.0689511
+    },
+    {
+      "type": "node",
+      "id": 2956811738,
+      "lat": 49.2699677,
+      "lon": -123.0694824
+    },
+    {
+      "type": "node",
+      "id": 2956811739,
+      "lat": 49.2699664,
+      "lon": -123.0691424
+    },
+    {
+      "type": "node",
+      "id": 2956811742,
+      "lat": 49.2700617,
+      "lon": -123.0690831
+    },
+    {
+      "type": "node",
+      "id": 2956811743,
+      "lat": 49.2699662,
+      "lon": -123.0690839
+    },
+    {
+      "type": "node",
+      "id": 2956811750,
+      "lat": 49.2700632,
+      "lon": -123.0694816
+    },
+    {
+      "type": "node",
+      "id": 2956811762,
+      "lat": 49.2703279,
+      "lon": -123.0694427
+    },
+    {
+      "type": "node",
+      "id": 2956811763,
+      "lat": 49.2703266,
+      "lon": -123.0690808
+    },
+    {
+      "type": "node",
+      "id": 2956811764,
+      "lat": 49.2704147,
+      "lon": -123.0694419
+    },
+    {
+      "type": "node",
+      "id": 2956811765,
+      "lat": 49.2704133,
+      "lon": -123.06908
+    },
+    {
+      "type": "node",
+      "id": 3551897962,
+      "lat": 49.2725578,
+      "lon": -123.0694201
+    },
+    {
+      "type": "node",
+      "id": 3064621662,
+      "lat": 49.2811572,
+      "lon": -123.0750242
+    },
+    {
+      "type": "node",
+      "id": 3064621663,
+      "lat": 49.2811512,
+      "lon": -123.074183
+    },
+    {
+      "type": "node",
+      "id": 3064621664,
+      "lat": 49.2811205,
+      "lon": -123.0741835
+    },
+    {
+      "type": "node",
+      "id": 3064621665,
+      "lat": 49.2811207,
+      "lon": -123.0742119
+    },
+    {
+      "type": "node",
+      "id": 3064621666,
+      "lat": 49.2808601,
+      "lon": -123.0742162
+    },
+    {
+      "type": "node",
+      "id": 3064621667,
+      "lat": 49.2808234,
+      "lon": -123.074302
+    },
+    {
+      "type": "node",
+      "id": 3064621668,
+      "lat": 49.2808267,
+      "lon": -123.0747276
+    },
+    {
+      "type": "node",
+      "id": 3064621669,
+      "lat": 49.2808568,
+      "lon": -123.074727
+    },
+    {
+      "type": "node",
+      "id": 3064621670,
+      "lat": 49.2808573,
+      "lon": -123.0747946
+    },
+    {
+      "type": "node",
+      "id": 3064621671,
+      "lat": 49.2808945,
+      "lon": -123.074794
+    },
+    {
+      "type": "node",
+      "id": 3064621672,
+      "lat": 49.2808958,
+      "lon": -123.0749703
+    },
+    {
+      "type": "node",
+      "id": 3064621673,
+      "lat": 49.2809223,
+      "lon": -123.0749698
+    },
+    {
+      "type": "node",
+      "id": 3064621674,
+      "lat": 49.2809227,
+      "lon": -123.0750282
+    },
+    {
+      "type": "node",
+      "id": 3749738734,
+      "lat": 49.2811275,
+      "lon": -123.0750247
+    },
+    {
+      "type": "node",
+      "id": 799581038,
+      "lat": 49.2583806,
+      "lon": -123.0373829
+    },
+    {
+      "type": "node",
+      "id": 799581042,
+      "lat": 49.2593871,
+      "lon": -123.0373898
+    },
+    {
+      "type": "node",
+      "id": 799581046,
+      "lat": 49.2593871,
+      "lon": -123.0373718
+    },
+    {
+      "type": "node",
+      "id": 799581049,
+      "lat": 49.2594981,
+      "lon": -123.0373721
+    },
+    {
+      "type": "node",
+      "id": 3641281196,
+      "lat": 49.2584443,
+      "lon": -123.0375067
+    },
+    {
+      "type": "node",
+      "id": 3641281197,
+      "lat": 49.2584444,
+      "lon": -123.037383
+    },
+    {
+      "type": "node",
+      "id": 3641281249,
+      "lat": 49.2585817,
+      "lon": -123.0375071
+    },
+    {
+      "type": "node",
+      "id": 3641281250,
+      "lat": 49.2585819,
+      "lon": -123.0373885
+    },
+    {
+      "type": "node",
+      "id": 3641281336,
+      "lat": 49.2589777,
+      "lon": -123.0375151
+    },
+    {
+      "type": "node",
+      "id": 3641281337,
+      "lat": 49.2589779,
+      "lon": -123.0373896
+    },
+    {
+      "type": "node",
+      "id": 3641281371,
+      "lat": 49.2591147,
+      "lon": -123.0375155
+    },
+    {
+      "type": "node",
+      "id": 3641281372,
+      "lat": 49.2591149,
+      "lon": -123.0373891
+    },
+    {
+      "type": "node",
+      "id": 799581052,
+      "lat": 49.2594997,
+      "lon": -123.0359767
+    },
+    {
+      "type": "node",
+      "id": 799581055,
+      "lat": 49.2592193,
+      "lon": -123.0359763
+    },
+    {
+      "type": "node",
+      "id": 799581058,
+      "lat": 49.2592194,
+      "lon": -123.0359277
+    },
+    {
+      "type": "node",
+      "id": 799581061,
+      "lat": 49.25894,
+      "lon": -123.035927
+    },
+    {
+      "type": "node",
+      "id": 799581069,
+      "lat": 49.25894,
+      "lon": -123.0359704
+    },
+    {
+      "type": "node",
+      "id": 799581073,
+      "lat": 49.2584006,
+      "lon": -123.035969
+    },
+    {
+      "type": "node",
+      "id": 3641273255,
+      "lat": 49.258358,
+      "lon": -123.0311361
+    },
+    {
+      "type": "node",
+      "id": 3641273256,
+      "lat": 49.2583595,
+      "lon": -123.0317971
+    },
+    {
+      "type": "node",
+      "id": 3641273257,
+      "lat": 49.2583596,
+      "lon": -123.0318207
+    },
+    {
+      "type": "node",
+      "id": 3641273265,
+      "lat": 49.258381,
+      "lon": -123.0370157
+    },
+    {
+      "type": "node",
+      "id": 3641273277,
+      "lat": 49.2583994,
+      "lon": -123.0370158
+    },
+    {
+      "type": "node",
+      "id": 3641273291,
+      "lat": 49.2584384,
+      "lon": -123.0317967
+    },
+    {
+      "type": "node",
+      "id": 3641273292,
+      "lat": 49.2584384,
+      "lon": -123.0318203
+    },
+    {
+      "type": "node",
+      "id": 3641281270,
+      "lat": 49.2586421,
+      "lon": -123.0311346
+    },
+    {
+      "type": "node",
+      "id": 3641281271,
+      "lat": 49.2586435,
+      "lon": -123.0317481
+    },
+    {
+      "type": "node",
+      "id": 3641281272,
+      "lat": 49.2586436,
+      "lon": -123.0317848
+    },
+    {
+      "type": "node",
+      "id": 3641281273,
+      "lat": 49.2586436,
+      "lon": -123.0317956
+    },
+    {
+      "type": "node",
+      "id": 3641281287,
+      "lat": 49.2587082,
+      "lon": -123.0317477
+    },
+    {
+      "type": "node",
+      "id": 3641281288,
+      "lat": 49.2587082,
+      "lon": -123.0317845
+    },
+    {
+      "type": "node",
+      "id": 3641281395,
+      "lat": 49.2592322,
+      "lon": -123.0359767
+    },
+    {
+      "type": "node",
+      "id": 5387543653,
+      "lat": 49.2590864,
+      "lon": -123.0359274
+    },
+    {
+      "type": "node",
+      "id": 1395702013,
+      "lat": 49.2586971,
+      "lon": -123.0273983
+    },
+    {
+      "type": "node",
+      "id": 1395702014,
+      "lat": 49.2597643,
+      "lon": -123.0275297
+    },
+    {
+      "type": "node",
+      "id": 1395702016,
+      "lat": 49.259764,
+      "lon": -123.0274803
+    },
+    {
+      "type": "node",
+      "id": 1395702027,
+      "lat": 49.2596166,
+      "lon": -123.0275317
+    },
+    {
+      "type": "node",
+      "id": 1395702029,
+      "lat": 49.2586976,
+      "lon": -123.0274832
+    },
+    {
+      "type": "node",
+      "id": 1395702031,
+      "lat": 49.2597951,
+      "lon": -123.0265166
+    },
+    {
+      "type": "node",
+      "id": 1395702033,
+      "lat": 49.2585667,
+      "lon": -123.0274001
+    },
+    {
+      "type": "node",
+      "id": 1395702035,
+      "lat": 49.2585619,
+      "lon": -123.0265606
+    },
+    {
+      "type": "node",
+      "id": 1395702038,
+      "lat": 49.2597954,
+      "lon": -123.0264531
+    },
+    {
+      "type": "node",
+      "id": 1395702040,
+      "lat": 49.2586906,
+      "lon": -123.0265589
+    },
+    {
+      "type": "node",
+      "id": 1395702055,
+      "lat": 49.2586901,
+      "lon": -123.0264679
+    },
+    {
+      "type": "node",
+      "id": 1395702071,
+      "lat": 49.2596162,
+      "lon": -123.0274709
+    },
+    {
+      "type": "node",
+      "id": 1395702072,
+      "lat": 49.2598012,
+      "lon": -123.0274798
+    },
+    {
+      "type": "node",
+      "id": 4842591265,
+      "lat": 49.2807096,
+      "lon": -123.0047943
+    },
+    {
+      "type": "node",
+      "id": 4842591266,
+      "lat": 49.2808256,
+      "lon": -123.004793
+    },
+    {
+      "type": "node",
+      "id": 4842591267,
+      "lat": 49.2807097,
+      "lon": -123.0048202
+    },
+    {
+      "type": "node",
+      "id": 4842591268,
+      "lat": 49.2808257,
+      "lon": -123.004819
+    },
+    {
+      "type": "node",
+      "id": 4842591272,
+      "lat": 49.2806622,
+      "lon": -123.0047648
+    },
+    {
+      "type": "node",
+      "id": 4842591278,
+      "lat": 49.2808846,
+      "lon": -123.0047923
+    },
+    {
+      "type": "node",
+      "id": 4842591279,
+      "lat": 49.2806623,
+      "lon": -123.0047948
+    },
+    {
+      "type": "node",
+      "id": 4842591285,
+      "lat": 49.2802921,
+      "lon": -123.004768
+    },
+    {
+      "type": "node",
+      "id": 4842591269,
+      "lat": 49.2806893,
+      "lon": -123.0039711
+    },
+    {
+      "type": "node",
+      "id": 4842591270,
+      "lat": 49.2802913,
+      "lon": -123.0042689
+    },
+    {
+      "type": "node",
+      "id": 4842591271,
+      "lat": 49.2808614,
+      "lon": -123.0041874
+    },
+    {
+      "type": "node",
+      "id": 4842591273,
+      "lat": 49.2808602,
+      "lon": -123.003951
+    },
+    {
+      "type": "node",
+      "id": 4842591274,
+      "lat": 49.2808991,
+      "lon": -123.0039505
+    },
+    {
+      "type": "node",
+      "id": 4842591275,
+      "lat": 49.2806877,
+      "lon": -123.003809
+    },
+    {
+      "type": "node",
+      "id": 4842591276,
+      "lat": 49.2808983,
+      "lon": -123.0038064
+    },
+    {
+      "type": "node",
+      "id": 4842591277,
+      "lat": 49.2808817,
+      "lon": -123.0041872
+    },
+    {
+      "type": "node",
+      "id": 4842591280,
+      "lat": 49.2802317,
+      "lon": -123.0038354
+    },
+    {
+      "type": "node",
+      "id": 4842591281,
+      "lat": 49.2803571,
+      "lon": -123.0038293
+    },
+    {
+      "type": "node",
+      "id": 4842591282,
+      "lat": 49.280244,
+      "lon": -123.0042693
+    },
+    {
+      "type": "node",
+      "id": 4842591283,
+      "lat": 49.280392,
+      "lon": -123.0039648
+    },
+    {
+      "type": "node",
+      "id": 8819154468,
+      "lat": 49.2808644,
+      "lon": -123.0038068
+    },
+    {
+      "type": "node",
+      "id": 9816269558,
+      "lat": 49.2805437,
+      "lon": -123.0039677
+    },
+    {
+      "type": "node",
+      "id": 9816269559,
+      "lat": 49.280882,
+      "lon": -123.0042535
+    },
+    {
+      "type": "node",
+      "id": 943219118,
+      "lat": 49.2115648,
+      "lon": -122.9602941
+    },
+    {
+      "type": "node",
+      "id": 943219122,
+      "lat": 49.2118616,
+      "lon": -122.9602069
+    },
+    {
+      "type": "node",
+      "id": 943219124,
+      "lat": 49.2117082,
+      "lon": -122.9600192
+    },
+    {
+      "type": "node",
+      "id": 943219133,
+      "lat": 49.2117185,
+      "lon": -122.9604817
+    },
+    {
+      "type": "node",
+      "id": 1677919679,
+      "lat": 49.2246658,
+      "lon": -122.9867031
+    },
+    {
+      "type": "node",
+      "id": 1677919680,
+      "lat": 49.2249358,
+      "lon": -122.9875309
+    },
+    {
+      "type": "node",
+      "id": 1677919689,
+      "lat": 49.2254772,
+      "lon": -122.986952
+    },
+    {
+      "type": "node",
+      "id": 1677919691,
+      "lat": 49.2254814,
+      "lon": -122.9875216
+    },
+    {
+      "type": "node",
+      "id": 1677919693,
+      "lat": 49.2255378,
+      "lon": -122.9866882
+    },
+    {
+      "type": "node",
+      "id": 1677919694,
+      "lat": 49.2255397,
+      "lon": -122.9869509
+    },
+    {
+      "type": "node",
+      "id": 1416646582,
+      "lat": 49.3277867,
+      "lon": -123.1592255
+    },
+    {
+      "type": "node",
+      "id": 1416646589,
+      "lat": 49.3281006,
+      "lon": -123.160036
+    },
+    {
+      "type": "node",
+      "id": 1416646594,
+      "lat": 49.3277895,
+      "lon": -123.1600386
+    },
+    {
+      "type": "node",
+      "id": 1416646597,
+      "lat": 49.3278527,
+      "lon": -123.1592249
+    },
+    {
+      "type": "node",
+      "id": 1416646607,
+      "lat": 49.3278522,
+      "lon": -123.1590782
+    },
+    {
+      "type": "node",
+      "id": 1416646629,
+      "lat": 49.3280973,
+      "lon": -123.1590763
+    },
+    {
+      "type": "node",
+      "id": 10309241126,
+      "lat": 49.3280992,
+      "lon": -123.1596485
+    },
+    {
+      "type": "node",
+      "id": 10309241132,
+      "lat": 49.3280978,
+      "lon": -123.1592337
+    },
+    {
+      "type": "node",
+      "id": 1188607021,
+      "lat": 49.3255872,
+      "lon": -123.1425926
+    },
+    {
+      "type": "node",
+      "id": 1188607131,
+      "lat": 49.3256682,
+      "lon": -123.1425387
+    },
+    {
+      "type": "node",
+      "id": 1188607364,
+      "lat": 49.3255585,
+      "lon": -123.1426372
+    },
+    {
+      "type": "node",
+      "id": 1188607378,
+      "lat": 49.3256027,
+      "lon": -123.1425575
+    },
+    {
+      "type": "node",
+      "id": 1188607395,
+      "lat": 49.3256186,
+      "lon": -123.1425028
+    },
+    {
+      "type": "node",
+      "id": 1188607474,
+      "lat": 49.3255892,
+      "lon": -123.1428729
+    },
+    {
+      "type": "node",
+      "id": 1188607493,
+      "lat": 49.325589,
+      "lon": -123.1426879
+    },
+    {
+      "type": "node",
+      "id": 1188616113,
+      "lat": 49.3255648,
+      "lon": -123.1426513
+    },
+    {
+      "type": "node",
+      "id": 7568020851,
+      "lat": 49.3255942,
+      "lon": -123.1425769
+    },
+    {
+      "type": "node",
+      "id": 7568020854,
+      "lat": 49.3256772,
+      "lon": -123.1428737
+    },
+    {
+      "type": "node",
+      "id": 7568038199,
+      "lat": 49.325678,
+      "lon": -123.1434943
+    },
+    {
+      "type": "node",
+      "id": 1188607004,
+      "lat": 49.3257843,
+      "lon": -123.1425349
+    },
+    {
+      "type": "node",
+      "id": 1188607053,
+      "lat": 49.3257324,
+      "lon": -123.1425231
+    },
+    {
+      "type": "node",
+      "id": 1188607084,
+      "lat": 49.3260959,
+      "lon": -123.1426861
+    },
+    {
+      "type": "node",
+      "id": 1188607166,
+      "lat": 49.3256838,
+      "lon": -123.1424863
+    },
+    {
+      "type": "node",
+      "id": 1188607184,
+      "lat": 49.3260117,
+      "lon": -123.1425537
+    },
+    {
+      "type": "node",
+      "id": 1188607256,
+      "lat": 49.3260116,
+      "lon": -123.1425327
+    },
+    {
+      "type": "node",
+      "id": 1188607333,
+      "lat": 49.3260922,
+      "lon": -123.1426196
+    },
+    {
+      "type": "node",
+      "id": 1188607400,
+      "lat": 49.3260976,
+      "lon": -123.1432934
+    },
+    {
+      "type": "node",
+      "id": 1188607437,
+      "lat": 49.3257427,
+      "lon": -123.1424897
+    },
+    {
+      "type": "node",
+      "id": 1188607453,
+      "lat": 49.3260921,
+      "lon": -123.1425572
+    },
+    {
+      "type": "node",
+      "id": 1188607491,
+      "lat": 49.3260909,
+      "lon": -123.1434864
+    },
+    {
+      "type": "node",
+      "id": 1229989783,
+      "lat": 49.3260922,
+      "lon": -123.1426861
+    },
+    {
+      "type": "node",
+      "id": 3925670984,
+      "lat": 49.3260907,
+      "lon": -123.1433823
+    },
+    {
+      "type": "node",
+      "id": 3925670985,
+      "lat": 49.3260905,
+      "lon": -123.1433012
+    },
+    {
+      "type": "node",
+      "id": 7568020862,
+      "lat": 49.3257878,
+      "lon": -123.1425269
+    },
+    {
+      "type": "node",
+      "id": 5821587253,
+      "lat": 49.3555205,
+      "lon": -123.1060605
+    },
+    {
+      "type": "node",
+      "id": 5821587254,
+      "lat": 49.3555183,
+      "lon": -123.1057756
+    },
+    {
+      "type": "node",
+      "id": 5821587255,
+      "lat": 49.3554215,
+      "lon": -123.1057774
+    },
+    {
+      "type": "node",
+      "id": 5821587256,
+      "lat": 49.3554237,
+      "lon": -123.1060624
+    },
+    {
+      "type": "node",
+      "id": 1417292424,
+      "lat": 49.3210695,
+      "lon": -123.0986632
+    },
+    {
+      "type": "node",
+      "id": 1417292426,
+      "lat": 49.3211709,
+      "lon": -123.098572
+    },
+    {
+      "type": "node",
+      "id": 1417292436,
+      "lat": 49.3214646,
+      "lon": -123.0984218
+    },
+    {
+      "type": "node",
+      "id": 1417292440,
+      "lat": 49.3213842,
+      "lon": -123.0985237
+    },
+    {
+      "type": "node",
+      "id": 1417292441,
+      "lat": 49.3214401,
+      "lon": -123.098116
+    },
+    {
+      "type": "node",
+      "id": 1417292442,
+      "lat": 49.3212024,
+      "lon": -123.0986203
+    },
+    {
+      "type": "node",
+      "id": 1417292443,
+      "lat": 49.3213772,
+      "lon": -123.0984379
+    },
+    {
+      "type": "node",
+      "id": 1417292444,
+      "lat": 49.3214856,
+      "lon": -123.0980731
+    },
+    {
+      "type": "node",
+      "id": 4287081437,
+      "lat": 49.3208267,
+      "lon": -123.0979781
+    },
+    {
+      "type": "node",
+      "id": 4287081443,
+      "lat": 49.320993,
+      "lon": -123.0978431
+    },
+    {
+      "type": "node",
+      "id": 4287081459,
+      "lat": 49.3213086,
+      "lon": -123.0975726
+    },
+    {
+      "type": "node",
+      "id": 257603906,
+      "lat": 49.3111959,
+      "lon": -123.0256729
+    },
+    {
+      "type": "node",
+      "id": 257603914,
+      "lat": 49.3113209,
+      "lon": -123.0242709
+    },
+    {
+      "type": "node",
+      "id": 257603915,
+      "lat": 49.3113305,
+      "lon": -123.0243089
+    },
+    {
+      "type": "node",
+      "id": 257603916,
+      "lat": 49.3109146,
+      "lon": -123.0245551
+    },
+    {
+      "type": "node",
+      "id": 6386928476,
+      "lat": 49.3113356,
+      "lon": -123.0241845
+    },
+    {
+      "type": "node",
+      "id": 6386928477,
+      "lat": 49.3120023,
+      "lon": -123.0251954
+    },
+    {
+      "type": "node",
+      "id": 6386928478,
+      "lat": 49.3115717,
+      "lon": -123.0256232
+    },
+    {
+      "type": "node",
+      "id": 6386928480,
+      "lat": 49.3113526,
+      "lon": -123.0242521
+    },
+    {
+      "type": "node",
+      "id": 6386928481,
+      "lat": 49.312141,
+      "lon": -123.0247133
+    },
+    {
+      "type": "node",
+      "id": 6386928482,
+      "lat": 49.3114854,
+      "lon": -123.0255014
+    },
+    {
+      "type": "node",
+      "id": 6386928483,
+      "lat": 49.3116848,
+      "lon": -123.0254382
+    },
+    {
+      "type": "node",
+      "id": 6386928586,
+      "lat": 49.3116732,
+      "lon": -123.0253902
+    },
+    {
+      "type": "node",
+      "id": 257603913,
+      "lat": 49.3119389,
+      "lon": -123.02391
+    },
+    {
+      "type": "node",
+      "id": 6386928585,
+      "lat": 49.3115512,
+      "lon": -123.0240568
+    },
+    {
+      "type": "node",
+      "id": 6386928587,
+      "lat": 49.3115694,
+      "lon": -123.0241288
+    },
+    {
+      "type": "node",
+      "id": 4013329436,
+      "lat": 49.3338195,
+      "lon": -123.041217
+    },
+    {
+      "type": "node",
+      "id": 4013329439,
+      "lat": 49.3338435,
+      "lon": -123.0420076
+    },
+    {
+      "type": "node",
+      "id": 4013329451,
+      "lat": 49.3338976,
+      "lon": -123.0411766
+    },
+    {
+      "type": "node",
+      "id": 4013329452,
+      "lat": 49.3338991,
+      "lon": -123.0412105
+    },
+    {
+      "type": "node",
+      "id": 4013329463,
+      "lat": 49.3339749,
+      "lon": -123.0411711
+    },
+    {
+      "type": "node",
+      "id": 4013329464,
+      "lat": 49.3339752,
+      "lon": -123.0411825
+    },
+    {
+      "type": "node",
+      "id": 4013329465,
+      "lat": 49.3339796,
+      "lon": -123.0419023
+    },
+    {
+      "type": "node",
+      "id": 4013329466,
+      "lat": 49.3339824,
+      "lon": -123.0419943
+    },
+    {
+      "type": "node",
+      "id": 4013329467,
+      "lat": 49.3339825,
+      "lon": -123.0419977
+    },
+    {
+      "type": "node",
+      "id": 4013329502,
+      "lat": 49.3342175,
+      "lon": -123.0411562
+    },
+    {
+      "type": "node",
+      "id": 4013329503,
+      "lat": 49.3342177,
+      "lon": -123.0411653
+    },
+    {
+      "type": "node",
+      "id": 4013329516,
+      "lat": 49.3342923,
+      "lon": -123.0411509
+    },
+    {
+      "type": "node",
+      "id": 4013329517,
+      "lat": 49.3342934,
+      "lon": -123.0411875
+    },
+    {
+      "type": "node",
+      "id": 4013329530,
+      "lat": 49.3343469,
+      "lon": -123.0418763
+    },
+    {
+      "type": "node",
+      "id": 4013329541,
+      "lat": 49.3344003,
+      "lon": -123.0411799
+    },
+    {
+      "type": "node",
+      "id": 4013329544,
+      "lat": 49.33442,
+      "lon": -123.0418279
+    },
+    {
+      "type": "node",
+      "id": 4013329545,
+      "lat": 49.3344213,
+      "lon": -123.041871
+    }
+  ]
+}
