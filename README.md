@@ -1,4 +1,14 @@
 # CMPT353-Hotel Price Optimization
+# Abstract/Introduction/Problem
+A spur-of-the-moment trip is an exciting decision, but deciding where to travel can be a headache. The budget at hand can impose many limitations. Among them, hotels can take up a large portion of the budget. In most cases, people choose to use the
+Internet or some apps to find information, but this is not only time-consuming but may not provide as many details as desired.
+The idea is to help people get the best price faster based on the requirements of the hotel itself (e.g., the number of rooms) and the points of interest (POI) around the hotel. With this in mind, we started the project, which includes the following questions:
+1. What factors affect the price of a hotel?
+2. Is the price of the hotel in question high simply because it is in a desirable location?
+3. Does the hotel's location contribute more to the hotel price than other factors?
+4. Are the estimated prices reliable?
+This project uses Vancouver as an example and takes into account the fact that people hesitate to make sudden decisions and are more likely to consider walking or using public transportation when traveling.
+
 ## Used Libraries
 - NumPy
 - Pandas
